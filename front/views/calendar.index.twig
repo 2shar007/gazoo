@@ -1,0 +1,18 @@
+{% extends "layout.twig" %}
+
+{% block title %}Calendars{% endblock %}
+
+{% block content %}
+    <h1>Calendars</h1>
+    <p>See all calendars here</p>
+    <dl>
+    {% for calendar in calendars %}
+            <dt>
+                <a href="{{ url('calendar', {id: calendar.id}) }}">{{ calendar.name }}{{ calendar.alias is empty ? '' : ' (' ~ calendar.alias ~ ')' }}</a>
+            </dt>
+            <dd>{{ calendar.description }}</dd>
+    {% else %}
+        <li>Sorry no calendar yet</li>
+    {% endfor %}
+    </dl>
+{% endblock %}

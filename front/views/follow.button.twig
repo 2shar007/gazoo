@@ -1,0 +1,17 @@
+<span class="follow-button" data-calendar-id="{{ id }}">
+    {% if is_following|default(following is defined and following[id] is defined) %}
+    <div class="btn-group">
+        <button class="btn btn-success dropdown-toggle" data-toggle="dropdown">
+            Following
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+            <li>
+                <a href="{{ url('calendar.action', {id: id, action: 'unfollow'}) }}" class="ajaxify" data-success="onfollow">Unfollow</a>
+            </li>
+        </ul>
+    </div>
+    {% else %}
+    <a href="{{ url('calendar.action', {id: id, action: 'follow'}) }}" class="btn btn-primary ajaxify" data-success="onfollow">Follow</a>
+    {% endif %}
+</span>

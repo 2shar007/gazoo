@@ -1,0 +1,21 @@
+{% extends "layout.twig" %}
+
+{% block title %}{{ calendar.name }}{% endblock %}
+
+{% block content %}
+    <h1>{{ calendar.name }}{{ calendar.alias is empty ? '' : ' (' ~ calendar.alias ~ ')' }} {% include 'follow.button.twig' with {id: calendar.id} %}</h1>
+    <p>{{ calendar.description }}</p>
+    <dl>
+    {% for event in events %}
+        <dt>{{ event.name }}</dt>
+        <dd>
+            <small>{{ event.start|date() }}{{ event.end is empty ? '' : ' to ' ~ event.end|date()  }}</small>
+            <p>
+                {{ event.description }}
+            </p>
+        </dd>
+    {% else %}
+        <li>Sorry no events yet</li>
+    {% endfor %}
+    </dl>
+{% endblock %}
