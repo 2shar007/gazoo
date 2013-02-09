@@ -48,14 +48,7 @@ $app->register(new Silex\Provider\UrlGeneratorServiceProvider());
 
 // Register Doctrine
 $app->register(new Silex\Provider\DoctrineServiceProvider(), array(
-    'db.options' => array(
-        'driver' => 'pdo_mysql',
-        'dbname' => 'gazoo',
-        'host' => '213.251.169.168',
-        'user' => 'gazoo',
-        'password' => 'swparisfeb2013',
-        'charset' => 'utf-8'
-    ),
+    'db.options' => include __DIR__ . '/../config/db.php',
 ));
 
 $app->get('/', function() use ($app)
