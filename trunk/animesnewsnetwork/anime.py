@@ -1,5 +1,7 @@
 from animeScraper import AnimeHTMLParser
 from animeEventScraper import AnimeEventHTMLParser
+import pymysql
+from datetime import datetime
 
 class Anime():
   def __init__(self, parser, eventParser):
@@ -10,11 +12,27 @@ class Anime():
     self.eventParser = eventParser
 
   def feed(self, url):
-    parser.feedAnime(url, self)
-    eventParser.feedAnime(url + "&page=25", self)
+    self.parser.feedAnime(url, self)
+    self.eventParser.feedAnime(url + "&page=25", self)
 
-  def insert(self):
-    print("not implemented")
+  def insert(self, connexion):
+
+    isThereRequest = "SELECT COUNT(*) FROM subject WHERE name='" + self.title + "';"
+    insertAnime = "INSERT INTO subject(name, description) values ('" + self.title + "','" + self.description + "');"
+    
+    if (len(self.events)>0 and self.title!=""):
+      cursor = connexion.cursor()
+      cursor.execute(isThereRequest)
+      if (cursor.fetchone()[0] == 0):
+        cursor.execute(insertAnime)
+        animeId = connexion.insert_id()
+        for event in self.events:
+          start = datetime.strptime(event.start, "%Y-%m-%d")
+          end = datetime.strptime(event.end, "%Y-%m-%d")
+          insertEvent = "INSERT INTO event(name, start, end) VALUES ('" + event.name + "','" + datetime.strftime(start, '%Y-%m-%d %H:%M:%S') + "','" + datetime.strftime(end, '%Y-%m-%d %H:%M:%S') + "');"
+          cursor.execute(insertEvent)
+          insertEventSubject = "INSERT INTO subject_event(id_subject, id_event) VALUES (" + str(animeId) + "," + str(connexion.insert_id()) + ");"
+          cursor.execute(insertEventSubject)
 
   def show(self):
     print("subject/name: " + self.title)
