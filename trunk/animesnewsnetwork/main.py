@@ -23,7 +23,10 @@ baseUrl = 'http://www.animenewsnetwork.com/encyclopedia/anime.php?id='
 parser = AnimeHTMLParser()
 eventParser = AnimeEventHTMLParser()
 
-for i in range(15126,15127):
+begin = 14725
+end = 15127
+for i in range(begin,end):
+  print(str(i-begin+1))
   anime = Anime(parser, eventParser)
   anime.feed(baseUrl + str(i))
   anime.insert(connexion)

@@ -1,0 +1,3425 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+PRODID:-//LFP//iCal 3.0//FR
+BEGIN:VEVENT
+DTSTART:20120727T183000Z
+SUMMARY:Angers SCO - CS Sedan
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 1ère journée - En direct sur beIN SPORT 2
+DTEND:20120727T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76300
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120727T183000Z
+SUMMARY:AJ Auxerre - Nîmes Olympique
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 1ère journée - En direct sur beIN SPORT 2
+DTEND:20120727T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76301
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120727T183000Z
+SUMMARY:Châteauroux - Stade Lavallois
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 1ère journée - En direct sur beIN SPORT 2
+DTEND:20120727T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76302
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120727T183000Z
+SUMMARY:Dijon FCO - EA Guingamp
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 1ère journée - En direct sur beIN SPORT 2
+DTEND:20120727T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76303
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120727T183000Z
+SUMMARY:GFC Ajaccio - SM Caen
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 2 - 1ère journée - En direct sur beIN SPORT 2
+DTEND:20120727T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76304
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120727T183000Z
+SUMMARY:Havre AC - AC Arles Avignon
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 1ère journée - En direct sur beIN SPORT 2
+DTEND:20120727T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76305
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120728T120000Z
+SUMMARY:RC Lens - Le Mans FC
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 1ère journée - En direct sur beIN SPORT 1
+DTEND:20120728T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76306
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120730T182000Z
+SUMMARY:AS Monaco FC - Tours FC
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 1ère journée - En direct sur Eurosport
+DTEND:20120730T202000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76307
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120727T183000Z
+SUMMARY:FC Nantes - FC Istres
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 1ère journée - En direct sur beIN SPORT 2
+DTEND:20120727T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76308
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120727T183000Z
+SUMMARY:Chamois Niortais - Clermont Foot
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 1ère journée - En direct sur beIN SPORT 2
+DTEND:20120727T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76309
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120803T183000Z
+SUMMARY:AC Arles Avignon - RC Lens
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 2ème journée - En direct sur beIN SPORT 2
+DTEND:20120803T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76310
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120804T120000Z
+SUMMARY:SM Caen - AJ Auxerre
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 2ème journée - En direct sur beIN SPORT 1
+DTEND:20120804T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76311
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120803T183000Z
+SUMMARY:Clermont Foot - Angers SCO
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 2ème journée - En direct sur beIN SPORT 2
+DTEND:20120803T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76312
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120803T183000Z
+SUMMARY:EA Guingamp - Havre AC
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 2ème journée - En direct sur beIN SPORT 2
+DTEND:20120803T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76313
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120803T183000Z
+SUMMARY:FC Istres - GFC Ajaccio
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 2ème journée - En direct sur beIN SPORT 2
+DTEND:20120803T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76314
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120803T183000Z
+SUMMARY:Stade Lavallois - AS Monaco FC
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 2ème journée - En direct sur beIN SPORT 2
+DTEND:20120803T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76315
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120803T183000Z
+SUMMARY:Le Mans FC - Dijon FCO
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 2ème journée - En direct sur beIN SPORT 2
+DTEND:20120803T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76316
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120804T150000Z
+SUMMARY:Nîmes Olympique - FC Nantes
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 2ème journée - En direct sur Eurosport
+DTEND:20120804T170000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76317
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120803T183000Z
+SUMMARY:CS Sedan - Châteauroux
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 2ème journée - En direct sur beIN SPORT 2
+DTEND:20120803T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76318
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120803T183000Z
+SUMMARY:Tours FC - Chamois Niortais
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 2ème journée - En direct sur beIN SPORT 2
+DTEND:20120803T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76319
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120810T164500Z
+SUMMARY:Angers SCO - EA Guingamp
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 3ème journée - En direct sur beIN SPORT 2
+DTEND:20120810T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76320
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120811T120000Z
+SUMMARY:AJ Auxerre - CS Sedan
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 3ème journée - En direct sur beIN SPORT 1
+DTEND:20120811T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76321
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120810T164500Z
+SUMMARY:Châteauroux - Le Mans FC
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 3ème journée - En direct sur beIN SPORT 2
+DTEND:20120810T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76322
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120810T164500Z
+SUMMARY:Clermont Foot - Nîmes Olympique
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 3ème journée - En direct sur beIN SPORT 2
+DTEND:20120810T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120810T164500Z
+SUMMARY:Dijon FCO - Tours FC
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 3ème journée - En direct sur beIN SPORT 2
+DTEND:20120810T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76324
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120810T164500Z
+SUMMARY:GFC Ajaccio - AC Arles Avignon
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 2 - 3ème journée - En direct sur beIN SPORT 2
+DTEND:20120810T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76325
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120813T183000Z
+SUMMARY:RC Lens - Havre AC
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 3ème journée - En direct sur Eurosport
+DTEND:20120813T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76326
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120810T164500Z
+SUMMARY:AS Monaco FC - FC Istres
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 3ème journée - En direct sur beIN SPORT 2
+DTEND:20120810T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76327
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120810T164500Z
+SUMMARY:FC Nantes - Stade Lavallois
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 3ème journée - En direct sur beIN SPORT 2
+DTEND:20120810T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76328
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120810T164500Z
+SUMMARY:Chamois Niortais - SM Caen
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 3ème journée - En direct sur beIN SPORT 2
+DTEND:20120810T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76329
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120817T164500Z
+SUMMARY:AC Arles Avignon - Angers SCO
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 4ème journée - En direct sur beIN SPORT 2
+DTEND:20120817T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76330
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120817T164500Z
+SUMMARY:SM Caen - Clermont Foot
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 4ème journée - En direct sur beIN SPORT 2
+DTEND:20120817T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76331
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120818T120000Z
+SUMMARY:EA Guingamp - AS Monaco FC
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 4ème journée - En direct sur beIN SPORT 1
+DTEND:20120818T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76332
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120817T164500Z
+SUMMARY:FC Istres - Châteauroux
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 4ème journée - En direct sur beIN SPORT 2
+DTEND:20120817T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76333
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120817T164500Z
+SUMMARY:Stade Lavallois - Chamois Niortais
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 4ème journée - En direct sur beIN SPORT 2
+DTEND:20120817T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76334
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120817T164500Z
+SUMMARY:Havre AC - GFC Ajaccio
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 4ème journée - En direct sur beIN SPORT 2
+DTEND:20120817T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76335
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120820T183000Z
+SUMMARY:Le Mans FC - AJ Auxerre
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 4ème journée - En direct sur Eurosport
+DTEND:20120820T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76336
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120817T164500Z
+SUMMARY:RC Lens - Dijon FCO
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 4ème journée - En direct sur beIN SPORT 2
+DTEND:20120817T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76337
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120817T164500Z
+SUMMARY:CS Sedan - Nîmes Olympique
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 4ème journée - En direct sur beIN SPORT 2
+DTEND:20120817T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76338
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120817T164500Z
+SUMMARY:Tours FC - FC Nantes
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 4ème journée - En direct sur beIN SPORT 2
+DTEND:20120817T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76339
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T164500Z
+SUMMARY:Angers SCO - FC Istres
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 5ème journée - En direct sur beIN SPORT 2
+DTEND:20120824T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T164500Z
+SUMMARY:AJ Auxerre - Stade Lavallois
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 5ème journée - En direct sur beIN SPORT 2
+DTEND:20120824T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76341
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T164500Z
+SUMMARY:Châteauroux - Tours FC
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 5ème journée - En direct sur beIN SPORT 2
+DTEND:20120824T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76342
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T164500Z
+SUMMARY:Clermont Foot - CS Sedan
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 5ème journée - En direct sur beIN SPORT 2
+DTEND:20120824T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76343
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T120000Z
+SUMMARY:Dijon FCO - Havre AC
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 5ème journée - En direct sur beIN SPORT 1
+DTEND:20120825T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76344
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T164500Z
+SUMMARY:GFC Ajaccio - RC Lens
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 2 - 5ème journée - En direct sur beIN SPORT 2
+DTEND:20120824T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76345
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T164500Z
+SUMMARY:AS Monaco FC - AC Arles Avignon
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 5ème journée - En direct sur beIN SPORT 2
+DTEND:20120824T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76346
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120827T183000Z
+SUMMARY:FC Nantes - Le Mans FC
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 5ème journée - En direct sur Eurosport
+DTEND:20120827T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76347
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T164500Z
+SUMMARY:Nîmes Olympique - SM Caen
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 5ème journée - En direct sur beIN SPORT 2
+DTEND:20120824T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76348
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T164500Z
+SUMMARY:Chamois Niortais - EA Guingamp
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 5ème journée - En direct sur beIN SPORT 2
+DTEND:20120824T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76349
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120831T164500Z
+SUMMARY:AC Arles Avignon - FC Nantes
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 6ème journée - En direct sur beIN SPORT 2
+DTEND:20120831T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76350
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120831T164500Z
+SUMMARY:Dijon FCO - GFC Ajaccio
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 6ème journée - En direct sur beIN SPORT 2
+DTEND:20120831T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76351
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120831T164500Z
+SUMMARY:EA Guingamp - Châteauroux
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 6ème journée - En direct sur beIN SPORT 2
+DTEND:20120831T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76352
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120831T164500Z
+SUMMARY:FC Istres - Chamois Niortais
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 6ème journée - En direct sur beIN SPORT 2
+DTEND:20120831T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76353
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120831T164500Z
+SUMMARY:Stade Lavallois - Nîmes Olympique
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 6ème journée - En direct sur beIN SPORT 2
+DTEND:20120831T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76354
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120831T164500Z
+SUMMARY:Havre AC - AS Monaco FC
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 6ème journée - En direct sur beIN SPORT 2
+DTEND:20120831T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76355
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120831T164500Z
+SUMMARY:Le Mans FC - Clermont Foot
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 6ème journée - En direct sur beIN SPORT 2
+DTEND:20120831T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76356
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120903T183000Z
+SUMMARY:RC Lens - Angers SCO
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 6ème journée - En direct sur Eurosport
+DTEND:20120903T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76357
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120831T164500Z
+SUMMARY:CS Sedan - SM Caen
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 6ème journée - En direct sur beIN SPORT 2
+DTEND:20120831T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76358
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120831T164500Z
+SUMMARY:Tours FC - AJ Auxerre
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 6ème journée - En direct sur beIN SPORT 2
+DTEND:20120831T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76359
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120917T164500Z
+SUMMARY:Angers SCO - Havre AC
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 7ème journée - En direct sur beIN SPORT 2
+DTEND:20120917T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76360
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T164500Z
+SUMMARY:AJ Auxerre - FC Istres
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 7ème journée - En direct sur beIN SPORT 2
+DTEND:20120914T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76361
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T164500Z
+SUMMARY:SM Caen - Le Mans FC
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 7ème journée - En direct sur beIN SPORT 2
+DTEND:20120914T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/75940
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T164500Z
+SUMMARY:Châteauroux - RC Lens
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 7ème journée - En direct sur beIN SPORT 2
+DTEND:20120914T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76362
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T164500Z
+SUMMARY:Clermont Foot - Tours FC
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 7ème journée - En direct sur beIN SPORT 2
+DTEND:20120914T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76363
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T164500Z
+SUMMARY:AS Monaco FC - Dijon FCO
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 7ème journée - En direct sur beIN SPORT 2
+DTEND:20120914T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76364
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120917T184500Z
+SUMMARY:FC Nantes - EA Guingamp
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 7ème journée - En direct sur Eurosport
+DTEND:20120917T204500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76365
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120917T164500Z
+SUMMARY:Nîmes Olympique - GFC Ajaccio
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 7ème journée - En direct sur beIN SPORT 2
+DTEND:20120917T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76366
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T164500Z
+SUMMARY:Chamois Niortais - AC Arles Avignon
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 7ème journée - En direct sur beIN SPORT 2
+DTEND:20120914T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76367
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T164500Z
+SUMMARY:CS Sedan - Stade Lavallois
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 7ème journée - En direct sur beIN SPORT 2
+DTEND:20120914T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76368
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120921T164500Z
+SUMMARY:AC Arles Avignon - Châteauroux
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 8ème journée - En direct sur beIN SPORT 2
+DTEND:20120921T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76369
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120924T183000Z
+SUMMARY:Dijon FCO - Clermont Foot
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 8ème journée - En direct sur Eurosport
+DTEND:20120924T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76370
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120921T164500Z
+SUMMARY:GFC Ajaccio - Angers SCO
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 2 - 8ème journée - En direct sur beIN SPORT 2
+DTEND:20120921T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76371
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120922T120000Z
+SUMMARY:EA Guingamp - AJ Auxerre
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 8ème journée - En direct sur beIN SPORT 1
+DTEND:20120922T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76372
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120921T164500Z
+SUMMARY:FC Istres - Nîmes Olympique
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 8ème journée - En direct sur beIN SPORT 2
+DTEND:20120921T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76373
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120921T164500Z
+SUMMARY:Stade Lavallois - SM Caen
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 8ème journée - En direct sur beIN SPORT 2
+DTEND:20120921T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76374
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120921T164500Z
+SUMMARY:Havre AC - FC Nantes
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 8ème journée - En direct sur beIN SPORT 2
+DTEND:20120921T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76375
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120921T164500Z
+SUMMARY:Le Mans FC - Chamois Niortais
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 8ème journée - En direct sur beIN SPORT 2
+DTEND:20120921T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76376
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120921T164500Z
+SUMMARY:RC Lens - AS Monaco FC
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 8ème journée - En direct sur beIN SPORT 2
+DTEND:20120921T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76377
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120921T164500Z
+SUMMARY:Tours FC - CS Sedan
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 8ème journée - En direct sur beIN SPORT 2
+DTEND:20120921T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76378
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120928T164500Z
+SUMMARY:Angers SCO - Le Mans FC
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 9ème journée - En direct sur beIN SPORT 2
+DTEND:20120928T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76379
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121001T183000Z
+SUMMARY:AJ Auxerre - AC Arles Avignon
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 9ème journée - En direct sur Eurosport
+DTEND:20121001T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76380
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120929T120000Z
+SUMMARY:SM Caen - Tours FC
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20120929T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76381
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120928T164500Z
+SUMMARY:Châteauroux - Havre AC
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 9ème journée - En direct sur beIN SPORT 2
+DTEND:20120928T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76382
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120928T164500Z
+SUMMARY:Clermont Foot - Stade Lavallois
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 9ème journée - En direct sur beIN SPORT 2
+DTEND:20120928T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76383
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120930T160000Z
+SUMMARY:AS Monaco FC - GFC Ajaccio
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 9ème journée - En direct sur beIN SPORT 2
+DTEND:20120930T180000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76384
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120929T120000Z
+SUMMARY:FC Nantes - RC Lens
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20120929T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76385
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120928T164500Z
+SUMMARY:Nîmes Olympique - EA Guingamp
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 9ème journée - En direct sur beIN SPORT 2
+DTEND:20120928T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76386
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120928T164500Z
+SUMMARY:Chamois Niortais - Dijon FCO
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 9ème journée - En direct sur beIN SPORT 2
+DTEND:20120928T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76387
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120928T164500Z
+SUMMARY:CS Sedan - FC Istres
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 9ème journée - En direct sur beIN SPORT 2
+DTEND:20120928T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76388
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121005T164500Z
+SUMMARY:AC Arles Avignon - Clermont Foot
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 10ème journée - En direct sur beIN SPORT 2
+DTEND:20121005T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76389
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121006T120000Z
+SUMMARY:Dijon FCO - Angers SCO
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 10ème journée - En direct sur beIN SPORT 1
+DTEND:20121006T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76390
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121005T164500Z
+SUMMARY:GFC Ajaccio - FC Nantes
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 2 - 10ème journée - En direct sur beIN SPORT 2
+DTEND:20121005T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76391
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121005T164500Z
+SUMMARY:EA Guingamp - Stade Lavallois
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 10ème journée - En direct sur beIN SPORT 2
+DTEND:20121005T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76392
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121005T164500Z
+SUMMARY:FC Istres - SM Caen
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 10ème journée - En direct sur beIN SPORT 2
+DTEND:20121005T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76393
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121005T164500Z
+SUMMARY:Havre AC - AJ Auxerre
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 10ème journée - En direct sur beIN SPORT 2
+DTEND:20121005T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76394
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121005T164500Z
+SUMMARY:Le Mans FC - CS Sedan
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 10ème journée - En direct sur beIN SPORT 2
+DTEND:20121005T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76395
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121005T164500Z
+SUMMARY:RC Lens - Chamois Niortais
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 10ème journée - En direct sur beIN SPORT 2
+DTEND:20121005T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76396
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121008T183000Z
+SUMMARY:AS Monaco FC - Châteauroux
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 10ème journée - En direct sur Eurosport
+DTEND:20121008T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76397
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121005T164500Z
+SUMMARY:Tours FC - Nîmes Olympique
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 10ème journée - En direct sur beIN SPORT 2
+DTEND:20121005T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76398
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121019T164500Z
+SUMMARY:Angers SCO - AS Monaco FC
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 11ème journée - En direct sur beIN SPORT 2
+DTEND:20121019T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76399
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121020T120000Z
+SUMMARY:AJ Auxerre - RC Lens
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121020T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76400
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121019T164500Z
+SUMMARY:SM Caen - EA Guingamp
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 11ème journée - En direct sur beIN SPORT 2
+DTEND:20121019T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76401
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121019T164500Z
+SUMMARY:Châteauroux - GFC Ajaccio
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 11ème journée - En direct sur beIN SPORT 2
+DTEND:20121019T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76402
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121019T164500Z
+SUMMARY:Clermont Foot - FC Istres
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 11ème journée - En direct sur beIN SPORT 2
+DTEND:20121019T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76403
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121019T164500Z
+SUMMARY:Stade Lavallois - Tours FC
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 11ème journée - En direct sur beIN SPORT 2
+DTEND:20121019T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76404
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121022T183000Z
+SUMMARY:FC Nantes - Dijon FCO
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 11ème journée - En direct sur Eurosport
+DTEND:20121022T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76405
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121019T164500Z
+SUMMARY:Nîmes Olympique - Le Mans FC
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 11ème journée - En direct sur beIN SPORT 2
+DTEND:20121019T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76406
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121019T164500Z
+SUMMARY:Chamois Niortais - Havre AC
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 11ème journée - En direct sur beIN SPORT 2
+DTEND:20121019T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76407
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121019T164500Z
+SUMMARY:CS Sedan - AC Arles Avignon
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 11ème journée - En direct sur beIN SPORT 2
+DTEND:20121019T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76408
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121026T164500Z
+SUMMARY:Angers SCO - Châteauroux
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 12ème journée - En direct sur beIN SPORT 2
+DTEND:20121026T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121026T164500Z
+SUMMARY:AC Arles Avignon - SM Caen
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 12ème journée - En direct sur beIN SPORT 2
+DTEND:20121026T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76410
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121026T164500Z
+SUMMARY:Dijon FCO - AJ Auxerre
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 12ème journée - En direct sur beIN SPORT 2
+DTEND:20121026T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76411
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121026T164500Z
+SUMMARY:EA Guingamp - CS Sedan
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 12ème journée - En direct sur beIN SPORT 2
+DTEND:20121026T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76413
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121026T164500Z
+SUMMARY:FC Istres - Tours FC
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 12ème journée - En direct sur beIN SPORT 2
+DTEND:20121026T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76414
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121026T164500Z
+SUMMARY:Havre AC - Nîmes Olympique
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 12ème journée - En direct sur beIN SPORT 2
+DTEND:20121026T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76415
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121026T164500Z
+SUMMARY:Le Mans FC - Stade Lavallois
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 12ème journée - En direct sur beIN SPORT 2
+DTEND:20121026T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76416
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121029T193000Z
+SUMMARY:RC Lens - Clermont Foot
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 12ème journée - En direct sur Eurosport
+DTEND:20121029T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76417
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121027T120000Z
+SUMMARY:AS Monaco FC - FC Nantes
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 12ème journée - En direct sur beIN SPORT 1
+DTEND:20121027T140000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76418
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121114T173000Z
+SUMMARY:GFC Ajaccio - Chamois Niortais
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 12ème journée - En direct sur beIN SPORT 2
+DTEND:20121114T193000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77175
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121103T130000Z
+SUMMARY:AJ Auxerre - GFC Ajaccio
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121103T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76419
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121105T193000Z
+SUMMARY:SM Caen - Havre AC
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 13ème journée - En direct sur Eurosport
+DTEND:20121105T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76420
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121102T174500Z
+SUMMARY:Châteauroux - Dijon FCO
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 13ème journée - En direct sur beIN SPORT 2
+DTEND:20121102T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76421
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121102T174500Z
+SUMMARY:Clermont Foot - EA Guingamp
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 13ème journée - En direct sur beIN SPORT 2
+DTEND:20121102T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76422
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121102T174500Z
+SUMMARY:Stade Lavallois - FC Istres
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 13ème journée - En direct sur beIN SPORT 2
+DTEND:20121102T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76423
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121103T130000Z
+SUMMARY:FC Nantes - Angers SCO
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121103T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76424
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121102T174500Z
+SUMMARY:Nîmes Olympique - AC Arles Avignon
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 13ème journée - En direct sur beIN SPORT 2
+DTEND:20121102T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76425
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121102T174500Z
+SUMMARY:Chamois Niortais - AS Monaco FC
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 13ème journée - En direct sur beIN SPORT 2
+DTEND:20121102T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76426
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121102T174500Z
+SUMMARY:CS Sedan - RC Lens
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 13ème journée - En direct sur beIN SPORT 2
+DTEND:20121102T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76427
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121102T174500Z
+SUMMARY:Tours FC - Le Mans FC
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 13ème journée - En direct sur beIN SPORT 2
+DTEND:20121102T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76428
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121109T174500Z
+SUMMARY:Angers SCO - Chamois Niortais
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 14ème journée - En direct sur beIN SPORT 2
+DTEND:20121109T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76429
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121109T174500Z
+SUMMARY:AC Arles Avignon - Stade Lavallois
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 14ème journée - En direct sur beIN SPORT 2
+DTEND:20121109T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76430
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121109T174500Z
+SUMMARY:Dijon FCO - Nîmes Olympique
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 14ème journée - En direct sur beIN SPORT 2
+DTEND:20121109T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76431
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121109T174500Z
+SUMMARY:GFC Ajaccio - CS Sedan
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 14ème journée - En direct sur beIN SPORT 2
+DTEND:20121109T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76432
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121109T174500Z
+SUMMARY:EA Guingamp - Tours FC
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 14ème journée - En direct sur beIN SPORT 2
+DTEND:20121109T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76433
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121109T174500Z
+SUMMARY:FC Istres - Le Mans FC
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 14ème journée - En direct sur beIN SPORT 2
+DTEND:20121109T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76434
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121109T174500Z
+SUMMARY:Havre AC - Clermont Foot
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 14ème journée - En direct sur beIN SPORT 2
+DTEND:20121109T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76435
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121112T193000Z
+SUMMARY:RC Lens - SM Caen
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 14ème journée - En direct sur Eurosport
+DTEND:20121112T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76436
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121110T130000Z
+SUMMARY:AS Monaco FC - AJ Auxerre
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 14ème journée - En direct sur beIN SPORT 1
+DTEND:20121110T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76437
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121109T174500Z
+SUMMARY:FC Nantes - Châteauroux
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 14ème journée - En direct sur beIN SPORT 2
+DTEND:20121109T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76438
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121124T130000Z
+SUMMARY:AJ Auxerre - FC Nantes
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121124T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76439
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121123T174500Z
+SUMMARY:SM Caen - Angers SCO
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 15ème journée - En direct sur beIN SPORT 2
+DTEND:20121123T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76440
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121126T193000Z
+SUMMARY:Clermont Foot - AS Monaco FC
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 15ème journée - En direct sur Eurosport
+DTEND:20121126T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76441
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121123T174500Z
+SUMMARY:FC Istres - AC Arles Avignon
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 15ème journée - En direct sur beIN SPORT 2
+DTEND:20121123T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76442
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121123T174500Z
+SUMMARY:Stade Lavallois - Dijon FCO
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 15ème journée - En direct sur beIN SPORT 2
+DTEND:20121123T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76443
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121123T174500Z
+SUMMARY:Le Mans FC - EA Guingamp
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 15ème journée - En direct sur beIN SPORT 2
+DTEND:20121123T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76444
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121123T174500Z
+SUMMARY:Nîmes Olympique - RC Lens
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 15ème journée - En direct sur beIN SPORT 2
+DTEND:20121123T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76445
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121123T174500Z
+SUMMARY:Chamois Niortais - Châteauroux
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 15ème journée - En direct sur beIN SPORT 2
+DTEND:20121123T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76446
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121123T174500Z
+SUMMARY:CS Sedan - Havre AC
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 15ème journée - En direct sur beIN SPORT 2
+DTEND:20121123T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76447
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121123T174500Z
+SUMMARY:Tours FC - GFC Ajaccio
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 15ème journée - En direct sur beIN SPORT 2
+DTEND:20121123T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76448
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121130T174500Z
+SUMMARY:Angers SCO - Nîmes Olympique
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 16ème journée - En direct sur beIN SPORT 2
+DTEND:20121130T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76449
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121130T174500Z
+SUMMARY:AC Arles Avignon - Le Mans FC
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 16ème journée - En direct sur beIN SPORT 2
+DTEND:20121130T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76450
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121130T174500Z
+SUMMARY:Châteauroux - AJ Auxerre
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 16ème journée - En direct sur beIN SPORT 2
+DTEND:20121130T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76451
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T130000Z
+SUMMARY:Dijon FCO - SM Caen
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121201T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76452
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T130000Z
+SUMMARY:GFC Ajaccio - Clermont Foot
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121201T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76453
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121203T193000Z
+SUMMARY:EA Guingamp - FC Istres
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 16ème journée - En direct sur Eurosport
+DTEND:20121203T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76454
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121130T174500Z
+SUMMARY:Havre AC - Tours FC
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 16ème journée - En direct sur beIN SPORT 2
+DTEND:20121130T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76455
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121130T174500Z
+SUMMARY:RC Lens - Stade Lavallois
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 16ème journée - En direct sur beIN SPORT 2
+DTEND:20121130T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76456
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121130T174500Z
+SUMMARY:AS Monaco FC - CS Sedan
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 16ème journée - En direct sur beIN SPORT 2
+DTEND:20121130T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76457
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121130T174500Z
+SUMMARY:FC Nantes - Chamois Niortais
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 16ème journée - En direct sur beIN SPORT 2
+DTEND:20121130T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76458
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T195500Z
+SUMMARY:AJ Auxerre - Chamois Niortais
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 17ème journée - En direct sur beIN SPORT 2
+DTEND:20121211T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76459
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T195500Z
+SUMMARY:SM Caen - AS Monaco FC
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 17ème journée - En direct sur beIN SPORT 2
+DTEND:20121211T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76460
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121210T194500Z
+SUMMARY:Clermont Foot - FC Nantes
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 17ème journée - En direct sur Eurosport
+DTEND:20121210T214500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76461
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T195500Z
+SUMMARY:EA Guingamp - AC Arles Avignon
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 17ème journée - En direct sur beIN SPORT 2
+DTEND:20121211T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76462
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T195500Z
+SUMMARY:FC Istres - Havre AC
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 17ème journée - En direct sur beIN SPORT 2
+DTEND:20121211T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76463
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T195500Z
+SUMMARY:Stade Lavallois - Angers SCO
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 17ème journée - En direct sur beIN SPORT 2
+DTEND:20121211T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76464
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T195500Z
+SUMMARY:Le Mans FC - GFC Ajaccio
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 17ème journée - En direct sur beIN SPORT 2
+DTEND:20121211T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76465
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T195500Z
+SUMMARY:Nîmes Olympique - Châteauroux
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 17ème journée - En direct sur beIN SPORT 2
+DTEND:20121211T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76466
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T195500Z
+SUMMARY:Tours FC - RC Lens
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 17ème journée - En direct sur beIN SPORT 2
+DTEND:20121211T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76468
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130212T183000Z
+SUMMARY:CS Sedan - Dijon FCO
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 17ème journée - En direct sur beIN SPORT
+DTEND:20130212T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77421
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121214T174500Z
+SUMMARY:Angers SCO - AJ Auxerre
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 18ème journée - En direct sur beIN SPORT 2
+DTEND:20121214T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76469
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121214T174500Z
+SUMMARY:AC Arles Avignon - Tours FC
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 18ème journée - En direct sur beIN SPORT 2
+DTEND:20121214T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76470
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121214T174500Z
+SUMMARY:Châteauroux - Clermont Foot
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 18ème journée - En direct sur beIN SPORT 2
+DTEND:20121214T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76471
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121215T130000Z
+SUMMARY:Dijon FCO - FC Istres
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 18ème journée - En direct sur beIN SPORT 1
+DTEND:20121215T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76472
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121214T174500Z
+SUMMARY:GFC Ajaccio - Stade Lavallois
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 18ème journée - En direct sur beIN SPORT 2
+DTEND:20121214T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76473
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121214T174500Z
+SUMMARY:Havre AC - Le Mans FC
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 18ème journée - En direct sur beIN SPORT 2
+DTEND:20121214T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76474
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121217T193000Z
+SUMMARY:RC Lens - EA Guingamp
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 18ème journée - En direct sur Eurosport
+DTEND:20121217T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76475
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121214T174500Z
+SUMMARY:AS Monaco FC - Nîmes Olympique
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 18ème journée - En direct sur beIN SPORT 2
+DTEND:20121214T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76476
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121215T130000Z
+SUMMARY:FC Nantes - SM Caen
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 18ème journée - En direct sur beIN SPORT 1
+DTEND:20121215T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76477
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121218T190000Z
+SUMMARY:Chamois Niortais - CS Sedan
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 18ème journée - En direct sur beIN SPORT
+DTEND:20121218T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76478
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121221T174500Z
+SUMMARY:AC Arles Avignon - Dijon FCO
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 19ème journée - En direct sur beIN SPORT 2
+DTEND:20121221T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76479
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121221T174500Z
+SUMMARY:SM Caen - Châteauroux
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 19ème journée - En direct sur beIN SPORT 2
+DTEND:20121221T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76480
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121221T174500Z
+SUMMARY:Clermont Foot - AJ Auxerre
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 19ème journée - En direct sur beIN SPORT 2
+DTEND:20121221T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76481
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121221T174500Z
+SUMMARY:EA Guingamp - GFC Ajaccio
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 19ème journée - En direct sur beIN SPORT 2
+DTEND:20121221T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76482
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121221T174500Z
+SUMMARY:FC Istres - RC Lens
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 19ème journée - En direct sur beIN SPORT 2
+DTEND:20121221T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76483
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121221T174500Z
+SUMMARY:Stade Lavallois - Havre AC
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 19ème journée - En direct sur beIN SPORT 2
+DTEND:20121221T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76484
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121222T130000Z
+SUMMARY:Le Mans FC - AS Monaco FC
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121222T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76485
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121221T174500Z
+SUMMARY:Nîmes Olympique - Chamois Niortais
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 19ème journée - En direct sur beIN SPORT 2
+DTEND:20121221T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76486
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121223T131500Z
+SUMMARY:CS Sedan - FC Nantes
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 19ème journée - En direct sur Eurosport
+DTEND:20121223T151500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76487
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121221T174500Z
+SUMMARY:Tours FC - Angers SCO
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 19ème journée - En direct sur beIN SPORT 2
+DTEND:20121221T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76488
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T190000Z
+SUMMARY:Angers SCO - Clermont Foot
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 20ème journée - En direct sur beIN SPORT 2
+DTEND:20130111T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77224
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130112T130000Z
+SUMMARY:AJ Auxerre - SM Caen
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 20ème journée - En direct sur beIN SPORT 1
+DTEND:20130112T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77225
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T190000Z
+SUMMARY:Châteauroux - CS Sedan
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 20ème journée - En direct sur beIN SPORT 2
+DTEND:20130111T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77226
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T190000Z
+SUMMARY:Dijon FCO - Le Mans FC
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 20ème journée - En direct sur beIN SPORT 2
+DTEND:20130111T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77227
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T190000Z
+SUMMARY:GFC Ajaccio - FC Istres
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 20ème journée - En direct sur beIN SPORT 2
+DTEND:20130111T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77228
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T190000Z
+SUMMARY:Havre AC - EA Guingamp
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 20ème journée - En direct sur beIN SPORT 2
+DTEND:20130111T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77229
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T190000Z
+SUMMARY:RC Lens - AC Arles Avignon
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 20ème journée - En direct sur beIN SPORT 2
+DTEND:20130111T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77230
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130114T193000Z
+SUMMARY:AS Monaco FC - Stade Lavallois
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 20ème journée - En direct sur Eurosport
+DTEND:20130114T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77231
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T190000Z
+SUMMARY:FC Nantes - Nîmes Olympique
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 20ème journée - En direct sur beIN SPORT 2
+DTEND:20130111T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77232
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T190000Z
+SUMMARY:Chamois Niortais - Tours FC
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 20ème journée - En direct sur beIN SPORT 2
+DTEND:20130111T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77233
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130118T190000Z
+SUMMARY:Havre AC - RC Lens
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 21ème journée - En direct sur beIN SPORT 2
+DTEND:20130118T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77312
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130118T190000Z
+SUMMARY:AC Arles Avignon - GFC Ajaccio
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 21ème journée - En direct sur beIN SPORT 2
+DTEND:20130118T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77313
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130118T190000Z
+SUMMARY:SM Caen - Chamois Niortais
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 21ème journée - En direct sur beIN SPORT 2
+DTEND:20130118T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77314
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130118T190000Z
+SUMMARY:FC Istres - AS Monaco FC
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 21ème journée - En direct sur beIN SPORT 2
+DTEND:20130118T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77316
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130119T130000Z
+SUMMARY:Stade Lavallois - FC Nantes
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 21ème journée - En direct sur beIN SPORT 1
+DTEND:20130119T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77317
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130118T190000Z
+SUMMARY:Le Mans FC - Châteauroux
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 21ème journée - En direct sur beIN SPORT 2
+DTEND:20130118T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77318
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130118T190000Z
+SUMMARY:Nîmes Olympique - Clermont Foot
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 21ème journée - En direct sur beIN SPORT 2
+DTEND:20130118T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77319
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130118T190000Z
+SUMMARY:Tours FC - Dijon FCO
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 21ème journée - En direct sur beIN SPORT 2
+DTEND:20130118T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77321
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130205T170000Z
+SUMMARY:EA Guingamp - Angers SCO
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 21ème journée - En direct sur Eurosport
+DTEND:20130205T190000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77447
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130226T183000Z
+SUMMARY:CS Sedan - AJ Auxerre
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 21ème journée - 
+DTEND:20130226T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77457
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130125T190000Z
+SUMMARY:Angers SCO - AC Arles Avignon
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 22ème journée - En direct sur beIN SPORT 2
+DTEND:20130125T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77322
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130125T190000Z
+SUMMARY:AJ Auxerre - Le Mans FC
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 22ème journée - En direct sur beIN SPORT 2
+DTEND:20130125T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130126T130000Z
+SUMMARY:Châteauroux - FC Istres
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130126T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77324
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130128T193000Z
+SUMMARY:Dijon FCO - RC Lens
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 22ème journée - En direct sur Eurosport
+DTEND:20130128T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77325
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130125T190000Z
+SUMMARY:GFC Ajaccio - Havre AC
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 22ème journée - En direct sur beIN SPORT 2
+DTEND:20130125T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77326
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130126T130000Z
+SUMMARY:AS Monaco FC - EA Guingamp
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130126T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77327
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130125T190000Z
+SUMMARY:FC Nantes - Tours FC
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 22ème journée - En direct sur beIN SPORT 2
+DTEND:20130125T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77328
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130125T190000Z
+SUMMARY:Chamois Niortais - Stade Lavallois
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 22ème journée - En direct sur beIN SPORT 2
+DTEND:20130125T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77329
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130125T190000Z
+SUMMARY:Clermont Foot - SM Caen
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 22ème journée - En direct sur beIN SPORT 2
+DTEND:20130125T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77330
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130125T190000Z
+SUMMARY:Nîmes Olympique - CS Sedan
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 22ème journée - En direct sur beIN SPORT 2
+DTEND:20130125T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77331
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130201T190000Z
+SUMMARY:Havre AC - Dijon FCO
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 23ème journée - En direct sur beIN SPORT 2
+DTEND:20130201T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77332
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130201T190000Z
+SUMMARY:RC Lens - GFC Ajaccio
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 23ème journée - En direct sur beIN SPORT 2
+DTEND:20130201T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77333
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130204T193000Z
+SUMMARY:AC Arles Avignon - AS Monaco FC
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 23ème journée - En direct sur Eurosport
+DTEND:20130204T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77334
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130201T190000Z
+SUMMARY:SM Caen - Nîmes Olympique
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 23ème journée - En direct sur beIN SPORT 2
+DTEND:20130201T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77335
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130201T190000Z
+SUMMARY:EA Guingamp - Chamois Niortais
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 23ème journée - En direct sur beIN SPORT 2
+DTEND:20130201T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77336
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130201T190000Z
+SUMMARY:FC Istres - Angers SCO
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 23ème journée - En direct sur beIN SPORT 2
+DTEND:20130201T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77337
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130201T190000Z
+SUMMARY:Stade Lavallois - AJ Auxerre
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 23ème journée - En direct sur beIN SPORT 2
+DTEND:20130201T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77338
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130202T130000Z
+SUMMARY:Le Mans FC - FC Nantes
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130202T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77339
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130201T190000Z
+SUMMARY:CS Sedan - Clermont Foot
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 23ème journée - En direct sur beIN SPORT 2
+DTEND:20130201T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130201T190000Z
+SUMMARY:Tours FC - Châteauroux
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 23ème journée - En direct sur beIN SPORT 2
+DTEND:20130201T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77341
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130211T193000Z
+SUMMARY:Angers SCO - RC Lens
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 24ème journée - En direct sur Eurosport
+DTEND:20130211T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77437
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130208T190000Z
+SUMMARY:AJ Auxerre - Tours FC
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 24ème journée - En direct sur beIN SPORT 2
+DTEND:20130208T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77438
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130208T190000Z
+SUMMARY:Châteauroux - EA Guingamp
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 24ème journée - En direct sur beIN SPORT 2
+DTEND:20130208T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77439
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130208T190000Z
+SUMMARY:GFC Ajaccio - Dijon FCO
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 24ème journée - En direct sur beIN SPORT 2
+DTEND:20130208T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77446
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130208T190000Z
+SUMMARY:AS Monaco FC - Havre AC
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 24ème journée - En direct sur beIN SPORT 2
+DTEND:20130208T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77440
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130209T130000Z
+SUMMARY:FC Nantes - AC Arles Avignon
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130209T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77441
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130208T190000Z
+SUMMARY:Chamois Niortais - FC Istres
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 24ème journée - En direct sur beIN SPORT 2
+DTEND:20130208T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77442
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130208T190000Z
+SUMMARY:SM Caen - CS Sedan
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 24ème journée - En direct sur beIN SPORT 2
+DTEND:20130208T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77443
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130208T190000Z
+SUMMARY:Clermont Foot - Le Mans FC
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 24ème journée - En direct sur beIN SPORT 2
+DTEND:20130208T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77444
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130208T190000Z
+SUMMARY:Nîmes Olympique - Stade Lavallois
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 24ème journée - En direct sur beIN SPORT 2
+DTEND:20130208T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77445
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130215T190000Z
+SUMMARY:AC Arles Avignon - Chamois Niortais
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 25ème journée - En direct sur beIN SPORT 2
+DTEND:20130215T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76539
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130218T193000Z
+SUMMARY:Dijon FCO - AS Monaco FC
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 25ème journée - En direct sur Eurosport
+DTEND:20130218T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76540
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130215T190000Z
+SUMMARY:GFC Ajaccio - Nîmes Olympique
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 25ème journée - En direct sur beIN SPORT 2
+DTEND:20130215T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76541
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130216T130000Z
+SUMMARY:EA Guingamp - FC Nantes
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 25ème journée - En direct sur beIN SPORT 1
+DTEND:20130216T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76542
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130215T190000Z
+SUMMARY:FC Istres - AJ Auxerre
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 25ème journée - En direct sur beIN SPORT 2
+DTEND:20130215T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76543
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130215T190000Z
+SUMMARY:Stade Lavallois - CS Sedan
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 25ème journée - En direct sur beIN SPORT 2
+DTEND:20130215T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76544
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130215T190000Z
+SUMMARY:Havre AC - Angers SCO
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 25ème journée - En direct sur beIN SPORT 2
+DTEND:20130215T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76545
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130215T190000Z
+SUMMARY:Le Mans FC - SM Caen
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 25ème journée - En direct sur beIN SPORT 2
+DTEND:20130215T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76546
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130215T190000Z
+SUMMARY:RC Lens - Châteauroux
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 25ème journée - En direct sur beIN SPORT 2
+DTEND:20130215T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76547
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130215T190000Z
+SUMMARY:Tours FC - Clermont Foot
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 25ème journée - En direct sur beIN SPORT 2
+DTEND:20130215T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76548
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130222T190000Z
+SUMMARY:Angers SCO - GFC Ajaccio
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Ligue 2 - 26ème journée - En direct sur beIN SPORT 2
+DTEND:20130222T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76549
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130222T190000Z
+SUMMARY:AJ Auxerre - EA Guingamp
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 2 - 26ème journée - En direct sur beIN SPORT 2
+DTEND:20130222T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76550
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130222T190000Z
+SUMMARY:SM Caen - Stade Lavallois
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Ligue 2 - 26ème journée - En direct sur beIN SPORT 2
+DTEND:20130222T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76551
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130222T190000Z
+SUMMARY:Châteauroux - AC Arles Avignon
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Ligue 2 - 26ème journée - En direct sur beIN SPORT 2
+DTEND:20130222T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76552
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130222T190000Z
+SUMMARY:Clermont Foot - Dijon FCO
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 26ème journée - En direct sur beIN SPORT 2
+DTEND:20130222T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76553
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130225T193000Z
+SUMMARY:AS Monaco FC - RC Lens
+LOCATION:Stade Louis II
+DESCRIPTION:Ligue 2 - 26ème journée - En direct sur Eurosport
+DTEND:20130225T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76554
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130223T130000Z
+SUMMARY:FC Nantes - Havre AC
+LOCATION:Stade de la Beaujoire-Louis Fonteneau
+DESCRIPTION:Ligue 2 - 26ème journée - En direct sur beIN SPORT 1
+DTEND:20130223T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76555
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130222T190000Z
+SUMMARY:Nîmes Olympique - FC Istres
+LOCATION:Stade des Costières
+DESCRIPTION:Ligue 2 - 26ème journée - En direct sur beIN SPORT 2
+DTEND:20130222T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76556
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130222T190000Z
+SUMMARY:Chamois Niortais - Le Mans FC
+LOCATION:Stade René Gaillard
+DESCRIPTION:Ligue 2 - 26ème journée - En direct sur beIN SPORT 2
+DTEND:20130222T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76557
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130222T190000Z
+SUMMARY:CS Sedan - Tours FC
+LOCATION:Stade Louis-Dugauguez
+DESCRIPTION:Ligue 2 - 26ème journée - En direct sur beIN SPORT 2
+DTEND:20130222T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76558
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130301T190000Z
+SUMMARY:AC Arles Avignon - AJ Auxerre
+LOCATION:Parc des Sports
+DESCRIPTION:Ligue 2 - 27ème journée - En direct sur beIN SPORT 2
+DTEND:20130301T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76559
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130301T190000Z
+SUMMARY:Dijon FCO - Chamois Niortais
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 27ème journée - En direct sur beIN SPORT 2
+DTEND:20130301T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76560
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130301T190000Z
+SUMMARY:GFC Ajaccio - AS Monaco FC
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 27ème journée - En direct sur beIN SPORT 2
+DTEND:20130301T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76561
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130302T130000Z
+SUMMARY:EA Guingamp - Nîmes Olympique
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130302T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76562
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130301T190000Z
+SUMMARY:FC Istres - CS Sedan
+LOCATION:Stade Parsemain
+DESCRIPTION:Ligue 2 - 27ème journée - En direct sur beIN SPORT 2
+DTEND:20130301T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76563
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130301T190000Z
+SUMMARY:Stade Lavallois - Clermont Foot
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Ligue 2 - 27ème journée - En direct sur beIN SPORT 2
+DTEND:20130301T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76564
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130301T190000Z
+SUMMARY:Havre AC - Châteauroux
+LOCATION:Stade Océane
+DESCRIPTION:Ligue 2 - 27ème journée - En direct sur beIN SPORT 2
+DTEND:20130301T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76565
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130301T190000Z
+SUMMARY:Le Mans FC - Angers SCO
+LOCATION:MMArena
+DESCRIPTION:Ligue 2 - 27ème journée - En direct sur beIN SPORT 2
+DTEND:20130301T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76566
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130304T193000Z
+SUMMARY:RC Lens - FC Nantes
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 27ème journée - En direct sur Eurosport
+DTEND:20130304T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76567
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130301T190000Z
+SUMMARY:Tours FC - SM Caen
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Ligue 2 - 27ème journée - En direct sur beIN SPORT 2
+DTEND:20130301T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76568
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T190000Z
+SUMMARY:Angers SCO - Dijon FCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 28ème journée - En direct sur beIN SPORT 2
+DTEND:20130308T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76569
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T190000Z
+SUMMARY:AJ Auxerre - Havre AC
+LOCATION:
+DESCRIPTION:Ligue 2 - 28ème journée - En direct sur beIN SPORT 2
+DTEND:20130308T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76570
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130311T193000Z
+SUMMARY:SM Caen - FC Istres
+LOCATION:
+DESCRIPTION:Ligue 2 - 28ème journée - En direct sur Eurosport
+DTEND:20130311T213000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76571
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T190000Z
+SUMMARY:Châteauroux - AS Monaco FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 28ème journée - En direct sur beIN SPORT 2
+DTEND:20130308T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76572
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T190000Z
+SUMMARY:Clermont Foot - AC Arles Avignon
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Ligue 2 - 28ème journée - En direct sur beIN SPORT 2
+DTEND:20130308T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76573
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T190000Z
+SUMMARY:Stade Lavallois - EA Guingamp
+LOCATION:
+DESCRIPTION:Ligue 2 - 28ème journée - En direct sur beIN SPORT 2
+DTEND:20130308T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76574
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130309T130000Z
+SUMMARY:FC Nantes - GFC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 2 - 28ème journée - En direct sur beIN SPORT 1
+DTEND:20130309T150000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76575
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T190000Z
+SUMMARY:Nîmes Olympique - Tours FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 28ème journée - En direct sur beIN SPORT 2
+DTEND:20130308T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76576
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T190000Z
+SUMMARY:Chamois Niortais - RC Lens
+LOCATION:
+DESCRIPTION:Ligue 2 - 28ème journée - En direct sur beIN SPORT 2
+DTEND:20130308T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76577
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T190000Z
+SUMMARY:CS Sedan - Le Mans FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 28ème journée - En direct sur beIN SPORT 2
+DTEND:20130308T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76578
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130314T230000Z
+SUMMARY:AC Arles Avignon - CS Sedan
+LOCATION:
+DESCRIPTION:Ligue 2 - 29ème journée - 
+DTEND:20130315T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76579
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130314T230000Z
+SUMMARY:Dijon FCO - FC Nantes
+LOCATION:
+DESCRIPTION:Ligue 2 - 29ème journée - 
+DTEND:20130315T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76580
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130314T230000Z
+SUMMARY:GFC Ajaccio - Châteauroux
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 29ème journée - 
+DTEND:20130315T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76581
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130314T230000Z
+SUMMARY:EA Guingamp - SM Caen
+LOCATION:
+DESCRIPTION:Ligue 2 - 29ème journée - 
+DTEND:20130315T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76582
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130314T230000Z
+SUMMARY:FC Istres - Clermont Foot
+LOCATION:
+DESCRIPTION:Ligue 2 - 29ème journée - 
+DTEND:20130315T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76583
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130314T230000Z
+SUMMARY:Havre AC - Chamois Niortais
+LOCATION:
+DESCRIPTION:Ligue 2 - 29ème journée - 
+DTEND:20130315T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76584
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130314T230000Z
+SUMMARY:Le Mans FC - Nîmes Olympique
+LOCATION:
+DESCRIPTION:Ligue 2 - 29ème journée - 
+DTEND:20130315T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76585
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130314T230000Z
+SUMMARY:RC Lens - AJ Auxerre
+LOCATION:
+DESCRIPTION:Ligue 2 - 29ème journée - 
+DTEND:20130315T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76586
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130314T230000Z
+SUMMARY:AS Monaco FC - Angers SCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 29ème journée - 
+DTEND:20130315T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76587
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130314T230000Z
+SUMMARY:Tours FC - Stade Lavallois
+LOCATION:
+DESCRIPTION:Ligue 2 - 29ème journée - 
+DTEND:20130315T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76588
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+SUMMARY:AJ Auxerre - Dijon FCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 30ème journée - 
+DTEND:20130329T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76589
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+SUMMARY:SM Caen - AC Arles Avignon
+LOCATION:
+DESCRIPTION:Ligue 2 - 30ème journée - 
+DTEND:20130329T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76590
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+SUMMARY:Châteauroux - Angers SCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 30ème journée - 
+DTEND:20130329T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76591
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+SUMMARY:Clermont Foot - RC Lens
+LOCATION:
+DESCRIPTION:Ligue 2 - 30ème journée - 
+DTEND:20130329T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76592
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+SUMMARY:Stade Lavallois - Le Mans FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 30ème journée - 
+DTEND:20130329T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76593
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+SUMMARY:FC Nantes - AS Monaco FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 30ème journée - 
+DTEND:20130329T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76594
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+SUMMARY:Nîmes Olympique - Havre AC
+LOCATION:
+DESCRIPTION:Ligue 2 - 30ème journée - 
+DTEND:20130329T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76595
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+SUMMARY:Chamois Niortais - GFC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 2 - 30ème journée - 
+DTEND:20130329T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76596
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+SUMMARY:CS Sedan - EA Guingamp
+LOCATION:
+DESCRIPTION:Ligue 2 - 30ème journée - 
+DTEND:20130329T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76597
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130328T230000Z
+SUMMARY:Tours FC - FC Istres
+LOCATION:
+DESCRIPTION:Ligue 2 - 30ème journée - 
+DTEND:20130329T010000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76598
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130404T220000Z
+SUMMARY:Angers SCO - FC Nantes
+LOCATION:
+DESCRIPTION:Ligue 2 - 31ème journée - 
+DTEND:20130405T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76599
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130404T220000Z
+SUMMARY:AC Arles Avignon - Nîmes Olympique
+LOCATION:
+DESCRIPTION:Ligue 2 - 31ème journée - 
+DTEND:20130405T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76600
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130404T220000Z
+SUMMARY:Dijon FCO - Châteauroux
+LOCATION:
+DESCRIPTION:Ligue 2 - 31ème journée - 
+DTEND:20130405T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130404T220000Z
+SUMMARY:GFC Ajaccio - AJ Auxerre
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 31ème journée - 
+DTEND:20130405T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76602
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130404T220000Z
+SUMMARY:EA Guingamp - Clermont Foot
+LOCATION:
+DESCRIPTION:Ligue 2 - 31ème journée - 
+DTEND:20130405T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76603
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130404T220000Z
+SUMMARY:FC Istres - Stade Lavallois
+LOCATION:
+DESCRIPTION:Ligue 2 - 31ème journée - 
+DTEND:20130405T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76604
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130404T220000Z
+SUMMARY:Havre AC - SM Caen
+LOCATION:
+DESCRIPTION:Ligue 2 - 31ème journée - 
+DTEND:20130405T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76605
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130404T220000Z
+SUMMARY:Le Mans FC - Tours FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 31ème journée - 
+DTEND:20130405T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76606
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130404T220000Z
+SUMMARY:RC Lens - CS Sedan
+LOCATION:
+DESCRIPTION:Ligue 2 - 31ème journée - 
+DTEND:20130405T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76607
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130404T220000Z
+SUMMARY:AS Monaco FC - Chamois Niortais
+LOCATION:
+DESCRIPTION:Ligue 2 - 31ème journée - 
+DTEND:20130405T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76608
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T220000Z
+SUMMARY:AJ Auxerre - AS Monaco FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 32ème journée - 
+DTEND:20130412T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76609
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T220000Z
+SUMMARY:SM Caen - RC Lens
+LOCATION:
+DESCRIPTION:Ligue 2 - 32ème journée - 
+DTEND:20130412T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76610
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T220000Z
+SUMMARY:Châteauroux - FC Nantes
+LOCATION:
+DESCRIPTION:Ligue 2 - 32ème journée - 
+DTEND:20130412T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76611
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T220000Z
+SUMMARY:Clermont Foot - Havre AC
+LOCATION:
+DESCRIPTION:Ligue 2 - 32ème journée - 
+DTEND:20130412T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76612
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T220000Z
+SUMMARY:Stade Lavallois - AC Arles Avignon
+LOCATION:
+DESCRIPTION:Ligue 2 - 32ème journée - 
+DTEND:20130412T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76613
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T220000Z
+SUMMARY:Le Mans FC - FC Istres
+LOCATION:
+DESCRIPTION:Ligue 2 - 32ème journée - 
+DTEND:20130412T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76614
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T220000Z
+SUMMARY:Nîmes Olympique - Dijon FCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 32ème journée - 
+DTEND:20130412T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76615
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T220000Z
+SUMMARY:Chamois Niortais - Angers SCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 32ème journée - 
+DTEND:20130412T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76616
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T220000Z
+SUMMARY:CS Sedan - GFC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 2 - 32ème journée - 
+DTEND:20130412T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76617
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130411T220000Z
+SUMMARY:Tours FC - EA Guingamp
+LOCATION:
+DESCRIPTION:Ligue 2 - 32ème journée - 
+DTEND:20130412T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76618
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130418T220000Z
+SUMMARY:Angers SCO - SM Caen
+LOCATION:
+DESCRIPTION:Ligue 2 - 33ème journée - 
+DTEND:20130419T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76619
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130418T220000Z
+SUMMARY:AC Arles Avignon - FC Istres
+LOCATION:
+DESCRIPTION:Ligue 2 - 33ème journée - 
+DTEND:20130419T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76620
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130418T220000Z
+SUMMARY:Châteauroux - Chamois Niortais
+LOCATION:
+DESCRIPTION:Ligue 2 - 33ème journée - 
+DTEND:20130419T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76621
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130418T220000Z
+SUMMARY:Dijon FCO - Stade Lavallois
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 33ème journée - 
+DTEND:20130419T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76622
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130418T220000Z
+SUMMARY:GFC Ajaccio - Tours FC
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 33ème journée - 
+DTEND:20130419T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76623
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130418T220000Z
+SUMMARY:EA Guingamp - Le Mans FC
+LOCATION:Stade Municipal du Roudourou 
+DESCRIPTION:Ligue 2 - 33ème journée - 
+DTEND:20130419T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76624
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130418T220000Z
+SUMMARY:Havre AC - CS Sedan
+LOCATION:
+DESCRIPTION:Ligue 2 - 33ème journée - 
+DTEND:20130419T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76625
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130418T220000Z
+SUMMARY:RC Lens - Nîmes Olympique
+LOCATION:
+DESCRIPTION:Ligue 2 - 33ème journée - 
+DTEND:20130419T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76626
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130418T220000Z
+SUMMARY:AS Monaco FC - Clermont Foot
+LOCATION:
+DESCRIPTION:Ligue 2 - 33ème journée - 
+DTEND:20130419T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76627
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130418T220000Z
+SUMMARY:FC Nantes - AJ Auxerre
+LOCATION:
+DESCRIPTION:Ligue 2 - 33ème journée - 
+DTEND:20130419T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76628
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T220000Z
+SUMMARY:AJ Auxerre - Châteauroux
+LOCATION:
+DESCRIPTION:Ligue 2 - 34ème journée - 
+DTEND:20130426T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76629
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T220000Z
+SUMMARY:SM Caen - Dijon FCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 34ème journée - 
+DTEND:20130426T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76630
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T220000Z
+SUMMARY:Clermont Foot - GFC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 2 - 34ème journée - 
+DTEND:20130426T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76631
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T220000Z
+SUMMARY:FC Istres - EA Guingamp
+LOCATION:
+DESCRIPTION:Ligue 2 - 34ème journée - 
+DTEND:20130426T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76632
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T220000Z
+SUMMARY:Stade Lavallois - RC Lens
+LOCATION:
+DESCRIPTION:Ligue 2 - 34ème journée - 
+DTEND:20130426T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76633
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T220000Z
+SUMMARY:Le Mans FC - AC Arles Avignon
+LOCATION:
+DESCRIPTION:Ligue 2 - 34ème journée - 
+DTEND:20130426T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76634
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T220000Z
+SUMMARY:Nîmes Olympique - Angers SCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 34ème journée - 
+DTEND:20130426T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76635
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T220000Z
+SUMMARY:Chamois Niortais - FC Nantes
+LOCATION:
+DESCRIPTION:Ligue 2 - 34ème journée - 
+DTEND:20130426T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76636
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T220000Z
+SUMMARY:CS Sedan - AS Monaco FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 34ème journée - 
+DTEND:20130426T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76637
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130425T220000Z
+SUMMARY:Tours FC - Havre AC
+LOCATION:
+DESCRIPTION:Ligue 2 - 34ème journée - 
+DTEND:20130426T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76638
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T220000Z
+SUMMARY:Angers SCO - Stade Lavallois
+LOCATION:
+DESCRIPTION:Ligue 2 - 35ème journée - 
+DTEND:20130503T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76639
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T220000Z
+SUMMARY:AC Arles Avignon - EA Guingamp
+LOCATION:
+DESCRIPTION:Ligue 2 - 35ème journée - 
+DTEND:20130503T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76640
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T220000Z
+SUMMARY:Châteauroux - Nîmes Olympique
+LOCATION:
+DESCRIPTION:Ligue 2 - 35ème journée - 
+DTEND:20130503T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76641
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T220000Z
+SUMMARY:Dijon FCO - CS Sedan
+LOCATION:
+DESCRIPTION:Ligue 2 - 35ème journée - 
+DTEND:20130503T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76642
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T220000Z
+SUMMARY:GFC Ajaccio - Le Mans FC
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 35ème journée - 
+DTEND:20130503T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76643
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T220000Z
+SUMMARY:Havre AC - FC Istres
+LOCATION:
+DESCRIPTION:Ligue 2 - 35ème journée - 
+DTEND:20130503T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76644
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T220000Z
+SUMMARY:RC Lens - Tours FC
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 35ème journée - 
+DTEND:20130503T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76645
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T220000Z
+SUMMARY:AS Monaco FC - SM Caen
+LOCATION:
+DESCRIPTION:Ligue 2 - 35ème journée - 
+DTEND:20130503T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76646
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T220000Z
+SUMMARY:FC Nantes - Clermont Foot
+LOCATION:
+DESCRIPTION:Ligue 2 - 35ème journée - 
+DTEND:20130503T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76647
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T220000Z
+SUMMARY:Chamois Niortais - AJ Auxerre
+LOCATION:
+DESCRIPTION:Ligue 2 - 35ème journée - 
+DTEND:20130503T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76648
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130509T220000Z
+SUMMARY:AJ Auxerre - Angers SCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 36ème journée - 
+DTEND:20130510T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76649
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130509T220000Z
+SUMMARY:SM Caen - FC Nantes
+LOCATION:
+DESCRIPTION:Ligue 2 - 36ème journée - 
+DTEND:20130510T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76650
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130509T220000Z
+SUMMARY:Clermont Foot - Châteauroux
+LOCATION:
+DESCRIPTION:Ligue 2 - 36ème journée - 
+DTEND:20130510T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76651
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130509T220000Z
+SUMMARY:EA Guingamp - RC Lens
+LOCATION:
+DESCRIPTION:Ligue 2 - 36ème journée - 
+DTEND:20130510T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76652
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130509T220000Z
+SUMMARY:FC Istres - Dijon FCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 36ème journée - 
+DTEND:20130510T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76653
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130509T220000Z
+SUMMARY:Stade Lavallois - GFC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 2 - 36ème journée - 
+DTEND:20130510T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76654
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130509T220000Z
+SUMMARY:Le Mans FC - Havre AC
+LOCATION:
+DESCRIPTION:Ligue 2 - 36ème journée - 
+DTEND:20130510T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76655
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130509T220000Z
+SUMMARY:Nîmes Olympique - AS Monaco FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 36ème journée - 
+DTEND:20130510T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76656
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130509T220000Z
+SUMMARY:CS Sedan - Chamois Niortais
+LOCATION:
+DESCRIPTION:Ligue 2 - 36ème journée - 
+DTEND:20130510T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76657
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130509T220000Z
+SUMMARY:Tours FC - AC Arles Avignon
+LOCATION:
+DESCRIPTION:Ligue 2 - 36ème journée - 
+DTEND:20130510T000000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76658
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T183000Z
+SUMMARY:Angers SCO - Tours FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 37ème journée - 
+DTEND:20130517T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76659
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T183000Z
+SUMMARY:AJ Auxerre - Clermont Foot
+LOCATION:
+DESCRIPTION:Ligue 2 - 37ème journée - 
+DTEND:20130517T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76660
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T183000Z
+SUMMARY:Châteauroux - SM Caen
+LOCATION:
+DESCRIPTION:Ligue 2 - 37ème journée - 
+DTEND:20130517T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76661
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T183000Z
+SUMMARY:Dijon FCO - AC Arles Avignon
+LOCATION:Stade Gaston Gérard
+DESCRIPTION:Ligue 2 - 37ème journée - 
+DTEND:20130517T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76662
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T183000Z
+SUMMARY:GFC Ajaccio - EA Guingamp
+LOCATION:Stade Ange Casanova
+DESCRIPTION:Ligue 2 - 37ème journée - 
+DTEND:20130517T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76663
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T183000Z
+SUMMARY:Havre AC - Stade Lavallois
+LOCATION:
+DESCRIPTION:Ligue 2 - 37ème journée - 
+DTEND:20130517T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76664
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T183000Z
+SUMMARY:RC Lens - FC Istres
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Ligue 2 - 37ème journée - 
+DTEND:20130517T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76665
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T183000Z
+SUMMARY:AS Monaco FC - Le Mans FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 37ème journée - 
+DTEND:20130517T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76666
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T183000Z
+SUMMARY:FC Nantes - CS Sedan
+LOCATION:
+DESCRIPTION:Ligue 2 - 37ème journée - 
+DTEND:20130517T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76667
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T183000Z
+SUMMARY:Chamois Niortais - Nîmes Olympique
+LOCATION:
+DESCRIPTION:Ligue 2 - 37ème journée - 
+DTEND:20130517T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76668
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130524T183000Z
+SUMMARY:AC Arles Avignon - Havre AC
+LOCATION:
+DESCRIPTION:Ligue 2 - 38ème journée - 
+DTEND:20130524T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76669
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130524T183000Z
+SUMMARY:SM Caen - GFC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 2 - 38ème journée - 
+DTEND:20130524T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76670
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130524T183000Z
+SUMMARY:Clermont Foot - Chamois Niortais
+LOCATION:
+DESCRIPTION:Ligue 2 - 38ème journée - 
+DTEND:20130524T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76671
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130524T183000Z
+SUMMARY:EA Guingamp - Dijon FCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 38ème journée - 
+DTEND:20130524T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76672
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130524T183000Z
+SUMMARY:FC Istres - FC Nantes
+LOCATION:
+DESCRIPTION:Ligue 2 - 38ème journée - 
+DTEND:20130524T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76673
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130524T183000Z
+SUMMARY:Stade Lavallois - Châteauroux
+LOCATION:
+DESCRIPTION:Ligue 2 - 38ème journée - 
+DTEND:20130524T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76674
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130524T183000Z
+SUMMARY:Le Mans FC - RC Lens
+LOCATION:
+DESCRIPTION:Ligue 2 - 38ème journée - 
+DTEND:20130524T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76675
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130524T183000Z
+SUMMARY:Nîmes Olympique - AJ Auxerre
+LOCATION:
+DESCRIPTION:Ligue 2 - 38ème journée - 
+DTEND:20130524T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76676
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130524T183000Z
+SUMMARY:CS Sedan - Angers SCO
+LOCATION:
+DESCRIPTION:Ligue 2 - 38ème journée - 
+DTEND:20130524T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76677
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130524T183000Z
+SUMMARY:Tours FC - AS Monaco FC
+LOCATION:
+DESCRIPTION:Ligue 2 - 38ème journée - 
+DTEND:20130524T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76678
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

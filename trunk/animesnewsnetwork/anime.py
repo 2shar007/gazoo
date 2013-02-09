@@ -18,7 +18,7 @@ class Anime():
   def insert(self, connexion):
 
     isThereRequest = "SELECT COUNT(*) FROM subject WHERE name='" + self.title + "';"
-    insertAnime = "INSERT INTO subject(name, description) values ('" + self.title + "','" + self.description + "');"
+    insertAnime = "INSERT INTO subject(name, description) values ('" + self.title.replace("\u2019"," ").replace("'"," ") + "','" + self.description.replace("\u2019", " ").replace("'"," ") + "');"
     
     if (len(self.events)>0 and self.title!=""):
       cursor = connexion.cursor()
@@ -29,7 +29,7 @@ class Anime():
         for event in self.events:
           start = datetime.strptime(event.start, "%Y-%m-%d")
           end = datetime.strptime(event.end, "%Y-%m-%d")
-          insertEvent = "INSERT INTO event(name, start, end) VALUES ('" + event.name + "','" + datetime.strftime(start, '%Y-%m-%d %H:%M:%S') + "','" + datetime.strftime(end, '%Y-%m-%d %H:%M:%S') + "');"
+          insertEvent = "INSERT INTO event(name, start, end) VALUES ('" + event.name.replace("\u2019"," ").replace("'"," ") + "','" + datetime.strftime(start, '%Y-%m-%d %H:%M:%S') + "','" + datetime.strftime(end, '%Y-%m-%d %H:%M:%S') + "');"
           cursor.execute(insertEvent)
           insertEventSubject = "INSERT INTO subject_event(id_subject, id_event) VALUES (" + str(animeId) + "," + str(connexion.insert_id()) + ");"
           cursor.execute(insertEventSubject)

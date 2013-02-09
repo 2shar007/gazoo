@@ -1,0 +1,392 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+PRODID:-//LFP//iCal 3.0//FR
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:Tours FC - Havre AC
+LOCATION:Stade de la Vallée du Cher
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76745
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:Stade Lavallois - Le Mans FC
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76746
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:Amiens SC - AJ Auxerre
+LOCATION:Stade de la Licorne
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76747
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:Châteauroux - Dijon FCO
+LOCATION:Stade Gaston Petit
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76748
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T164500Z
+SUMMARY:SM Caen - RC Lens
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Cpe. Lig. - 1er tour - En direct sur France 4
+DTEND:20120807T184500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76749
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:FC Metz - CS Sedan
+LOCATION:Stade Saint-Symphorien
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76750
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:Angers SCO - FC Nantes
+LOCATION:Stade Jean Bouin
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76751
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:FC Istres - Clermont Foot
+LOCATION:Stade Parsemain
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76752
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:Chamois Niortais - US Boulogne CO
+LOCATION:Stade René Gaillard
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76753
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:Nîmes Olympique - AS Monaco FC
+LOCATION:Stade des Costières
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76754
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:Vannes OC - GFC Ajaccio
+LOCATION:Stade de la Rabine
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76755
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120807T180000Z
+SUMMARY:AC Arles Avignon - EA Guingamp
+LOCATION:Parc des Sports
+DESCRIPTION:Cpe. Lig. - 1er tour - 
+DTEND:20120807T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76756
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120828T180000Z
+SUMMARY:FC Metz - Tours FC
+LOCATION:Stade Saint-Symphorien
+DESCRIPTION:Cpe. Lig. - 2ème tour - 
+DTEND:20120828T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76821
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120828T180000Z
+SUMMARY:Clermont Foot - SM Caen
+LOCATION:Stade Gabriel Montpied
+DESCRIPTION:Cpe. Lig. - 2ème tour - 
+DTEND:20120828T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76822
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120828T180000Z
+SUMMARY:Stade Lavallois - Angers SCO
+LOCATION:Stade Francis Le Basser
+DESCRIPTION:Cpe. Lig. - 2ème tour - 
+DTEND:20120828T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76823
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120828T180000Z
+SUMMARY:Chamois Niortais - AS Monaco FC
+LOCATION:Stade René Gaillard
+DESCRIPTION:Cpe. Lig. - 2ème tour - 
+DTEND:20120828T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76824
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120828T185000Z
+SUMMARY:AJ Auxerre - Dijon FCO
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Cpe. Lig. - 2ème tour - En direct sur France 4
+DTEND:20120828T205000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76825
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120828T180000Z
+SUMMARY:GFC Ajaccio - AC Arles Avignon
+LOCATION:Stade François Coty
+DESCRIPTION:Cpe. Lig. - 2ème tour - 
+DTEND:20120828T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76826
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120925T185000Z
+SUMMARY:Stade Rennais FC - AS Nancy-Lorraine
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Cpe. Lig. - 1/16 de finale - En direct sur France 4
+DTEND:20120925T205000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76911
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120926T185500Z
+SUMMARY:SM Caen - Toulouse FC
+LOCATION:Stade Michel d'Ornano
+DESCRIPTION:Cpe. Lig. - 1/16 de finale - En direct sur France 3 Régions
+DTEND:20120926T205500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76912
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120926T185500Z
+SUMMARY:AS Monaco FC - Valenciennes FC
+LOCATION:Stade Louis II
+DESCRIPTION:Cpe. Lig. - 1/16 de finale - En direct sur France 3 Régions
+DTEND:20120926T205500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120926T180000Z
+SUMMARY:AC Arles Avignon - AC Ajaccio
+LOCATION:Parc des Sports
+DESCRIPTION:Cpe. Lig. - 1/16 de finale - 
+DTEND:20120926T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76914
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120926T185500Z
+SUMMARY:FC Sochaux-Montbéliard - Evian TG FC
+LOCATION:Stade Bonal
+DESCRIPTION:Cpe. Lig. - 1/16 de finale - En direct sur France 3 Régions
+DTEND:20120926T205500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76915
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120926T185500Z
+SUMMARY:Stade de Reims - ESTAC Troyes
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Cpe. Lig. - 1/16 de finale - En direct sur France 3 Régions
+DTEND:20120926T205500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76916
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120926T160000Z
+SUMMARY:Stade Brestois 29 - OGC Nice
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Cpe. Lig. - 1/16 de finale - En direct sur France 4
+DTEND:20120926T180000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76917
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120925T180000Z
+SUMMARY:AJ Auxerre - Angers SCO
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Cpe. Lig. - 1/16 de finale - 
+DTEND:20120925T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76918
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120926T185500Z
+SUMMARY:FC Lorient - AS Saint-Etienne
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Cpe. Lig. - 1/16 de finale - En direct sur France 3 Régions
+DTEND:20120926T205500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76919
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120925T180000Z
+SUMMARY:SC Bastia - FC Metz
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Cpe. Lig. - 1/16 de finale - 
+DTEND:20120925T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76920
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121031T174500Z
+SUMMARY:Montpellier Hérault SC - Girondins de Bordeaux
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - En direct sur France 4
+DTEND:20121031T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77163
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121031T195500Z
+SUMMARY:Paris Saint-Germain - Olympique de Marseille
+LOCATION:Parc des Princes
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - En direct sur France 3
+DTEND:20121031T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77165
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121030T190000Z
+SUMMARY:AS Monaco FC - ESTAC Troyes
+LOCATION:Stade Louis II
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - 
+DTEND:20121030T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77166
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121030T195000Z
+SUMMARY:LOSC Lille - Toulouse FC
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - En direct sur France 4
+DTEND:20121030T215000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77167
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121030T190000Z
+SUMMARY:Stade Rennais FC - AC Arles Avignon
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - 
+DTEND:20121030T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77168
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121031T160000Z
+SUMMARY:OGC Nice - Olympique Lyonnais
+LOCATION:Stade du Ray
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - En direct sur France 2
+DTEND:20121031T180000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77170
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121030T170000Z
+SUMMARY:FC Sochaux-Montbéliard - AS Saint-Etienne
+LOCATION:Stade Bonal
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - En direct sur France 4
+DTEND:20121030T190000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77169
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121107T190000Z
+SUMMARY:SC Bastia - AJ Auxerre
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - 
+DTEND:20121107T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77194
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121129T195500Z
+SUMMARY:Stade Rennais FC - ESTAC Troyes
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Cpe. Lig. - 1/4 de finale - En direct sur France 4
+DTEND:20121129T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77191
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121128T160000Z
+SUMMARY:Montpellier Hérault SC - OGC Nice
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Cpe. Lig. - 1/4 de finale - En direct sur France 2
+DTEND:20121128T180000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77192
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121127T195500Z
+SUMMARY:AS Saint-Etienne - Paris Saint-Germain
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Cpe. Lig. - 1/4 de finale - En direct sur France 3
+DTEND:20121127T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77193
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121128T174500Z
+SUMMARY:SC Bastia - LOSC Lille
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Cpe. Lig. - 1/4 de finale - En direct sur France 4
+DTEND:20121128T194500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77198
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130115T195500Z
+SUMMARY:AS Saint-Etienne - LOSC Lille
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Cpe. Lig. - 1/2 finale - En direct sur France 3
+DTEND:20130115T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77262
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130116T200000Z
+SUMMARY:Stade Rennais FC - Montpellier Hérault SC
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Cpe. Lig. - 1/2 finale - En direct sur France 2
+DTEND:20130116T220000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77263
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T190000Z
+SUMMARY:AS Saint-Etienne - Stade Rennais FC
+LOCATION:Stade De France
+DESCRIPTION:Cpe. Lig. - Finale - En direct sur France 2
+DTEND:20130420T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77456
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

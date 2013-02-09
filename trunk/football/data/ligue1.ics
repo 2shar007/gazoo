@@ -1,0 +1,3425 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+PRODID:-//LFP//iCal 3.0//FR
+BEGIN:VEVENT
+DTSTART:20120811T190000Z
+SUMMARY:Evian TG FC - Girondins de Bordeaux
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur Canal + (Multiplex)
+DTEND:20120811T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75919
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120810T184500Z
+SUMMARY:Montpellier Hérault SC - Toulouse FC
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur beIN SPORT 1
+DTEND:20120810T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75920
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120811T190000Z
+SUMMARY:AS Nancy-Lorraine - Stade Brestois 29
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur Canal + (Multiplex)
+DTEND:20120811T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75921
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120811T190000Z
+SUMMARY:OGC Nice - AC Ajaccio
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur Canal + (Multiplex)
+DTEND:20120811T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75922
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120811T190000Z
+SUMMARY:Paris Saint-Germain - FC Lorient
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur beIN SPORT 2
+DTEND:20120811T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75923
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120812T190000Z
+SUMMARY:Stade de Reims - Olympique de Marseille
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur Canal +
+DTEND:20120812T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75924
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120811T190000Z
+SUMMARY:Stade Rennais FC - Olympique Lyonnais
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur Canal + (Multiplex)
+DTEND:20120811T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75925
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120811T190000Z
+SUMMARY:AS Saint-Etienne - LOSC Lille
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur Canal + (Multiplex)
+DTEND:20120811T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75926
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120811T190000Z
+SUMMARY:FC Sochaux-Montbéliard - SC Bastia
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur Canal + (Multiplex)
+DTEND:20120811T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75927
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120811T190000Z
+SUMMARY:ESTAC Troyes - Valenciennes FC
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur Canal + (Multiplex)
+DTEND:20120811T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75928
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120819T190000Z
+SUMMARY:AC Ajaccio - Paris Saint-Germain
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur Canal +
+DTEND:20120819T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75929
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120818T180000Z
+SUMMARY:SC Bastia - Stade de Reims
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur beIN SPORT 1
+DTEND:20120818T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75930
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120819T150000Z
+SUMMARY:Girondins de Bordeaux - Stade Rennais FC
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur beIN SPORT 1
+DTEND:20120819T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75931
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120818T180000Z
+SUMMARY:Stade Brestois 29 - Evian TG FC
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur beIN SPORT 1
+DTEND:20120818T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75932
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120817T184500Z
+SUMMARY:LOSC Lille - AS Nancy-Lorraine
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur beIN SPORT 1
+DTEND:20120817T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75933
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120818T180000Z
+SUMMARY:FC Lorient - Montpellier Hérault SC
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur beIN SPORT 1
+DTEND:20120818T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75934
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120818T150000Z
+SUMMARY:Olympique Lyonnais - ESTAC Troyes
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur Canal +
+DTEND:20120818T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75935
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120819T150000Z
+SUMMARY:Olympique de Marseille - FC Sochaux-Montbéliard
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur beIN SPORT 2
+DTEND:20120819T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75936
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120818T180000Z
+SUMMARY:Toulouse FC - AS Saint-Etienne
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur beIN SPORT 1
+DTEND:20120818T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75937
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120818T180000Z
+SUMMARY:Valenciennes FC - OGC Nice
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur beIN SPORT 1
+DTEND:20120818T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75938
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T184500Z
+SUMMARY:Evian TG FC - Olympique Lyonnais
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur beIN SPORT 1
+DTEND:20120824T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75939
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120826T150000Z
+SUMMARY:Montpellier Hérault SC - Olympique de Marseille
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur beIN SPORT 1
+DTEND:20120826T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75941
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T180000Z
+SUMMARY:AS Nancy-Lorraine - Toulouse FC
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur beIN SPORT 1
+DTEND:20120825T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75942
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T150000Z
+SUMMARY:OGC Nice - LOSC Lille
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur Canal +
+DTEND:20120825T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75943
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120826T190000Z
+SUMMARY:Paris Saint-Germain - Girondins de Bordeaux
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur Canal +
+DTEND:20120826T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75944
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T180000Z
+SUMMARY:Stade de Reims - FC Sochaux-Montbéliard
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur beIN SPORT 1
+DTEND:20120825T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75945
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T180000Z
+SUMMARY:Stade Rennais FC - SC Bastia
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur beIN SPORT 1
+DTEND:20120825T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75946
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120826T150000Z
+SUMMARY:AS Saint-Etienne - Stade Brestois 29
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur beIN SPORT 2
+DTEND:20120826T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75947
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T180000Z
+SUMMARY:ESTAC Troyes - FC Lorient
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur beIN SPORT 1
+DTEND:20120825T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75948
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T180000Z
+SUMMARY:Valenciennes FC - AC Ajaccio
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur beIN SPORT 1
+DTEND:20120825T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75949
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120901T180000Z
+SUMMARY:AC Ajaccio - Evian TG FC
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur beIN SPORT 1
+DTEND:20120901T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75950
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120901T180000Z
+SUMMARY:SC Bastia - AS Saint-Etienne
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur beIN SPORT 1
+DTEND:20120901T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75951
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120902T120000Z
+SUMMARY:Girondins de Bordeaux - OGC Nice
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur beIN SPORT 1
+DTEND:20120902T140000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75952
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120901T180000Z
+SUMMARY:Stade Brestois 29 - ESTAC Troyes
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur beIN SPORT 1
+DTEND:20120901T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75953
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120902T190000Z
+SUMMARY:LOSC Lille - Paris Saint-Germain
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur Canal +
+DTEND:20120902T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75954
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120901T180000Z
+SUMMARY:FC Lorient - AS Nancy-Lorraine
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur beIN SPORT 1
+DTEND:20120901T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75955
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120901T150000Z
+SUMMARY:Olympique Lyonnais - Valenciennes FC
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur Canal +
+DTEND:20120901T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75956
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120902T150000Z
+SUMMARY:Olympique de Marseille - Stade Rennais FC
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur beIN SPORT 1
+DTEND:20120902T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75957
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120901T180000Z
+SUMMARY:FC Sochaux-Montbéliard - Montpellier Hérault SC
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur beIN SPORT 1
+DTEND:20120901T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75958
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120901T180000Z
+SUMMARY:Toulouse FC - Stade de Reims
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur beIN SPORT 1
+DTEND:20120901T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75959
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120915T180000Z
+SUMMARY:Evian TG FC - SC Bastia
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur beIN SPORT 1
+DTEND:20120915T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75960
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120916T150000Z
+SUMMARY:Olympique Lyonnais - AC Ajaccio
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur beIN SPORT 1
+DTEND:20120916T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75961
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120916T190000Z
+SUMMARY:AS Nancy-Lorraine - Olympique de Marseille
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur Canal +
+DTEND:20120916T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75962
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120915T180000Z
+SUMMARY:OGC Nice - Stade Brestois 29
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur beIN SPORT 1
+DTEND:20120915T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75963
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T184500Z
+SUMMARY:Paris Saint-Germain - Toulouse FC
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur beIN SPORT 1
+DTEND:20120914T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75964
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T184500Z
+SUMMARY:Stade de Reims - Montpellier Hérault SC
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur beIN SPORT 2
+DTEND:20120914T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75965
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120916T120000Z
+SUMMARY:Stade Rennais FC - FC Lorient
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur beIN SPORT 1
+DTEND:20120916T140000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75966
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120915T180000Z
+SUMMARY:AS Saint-Etienne - FC Sochaux-Montbéliard
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur beIN SPORT 1
+DTEND:20120915T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120915T150000Z
+SUMMARY:ESTAC Troyes - LOSC Lille
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur Canal +
+DTEND:20120915T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75968
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120915T180000Z
+SUMMARY:Valenciennes FC - Girondins de Bordeaux
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur beIN SPORT 1
+DTEND:20120915T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75969
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120922T150000Z
+SUMMARY:SC Bastia - Paris Saint-Germain
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur Canal +
+DTEND:20120922T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75970
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120923T120000Z
+SUMMARY:Girondins de Bordeaux - AC Ajaccio
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur beIN SPORT 1
+DTEND:20120923T140000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75971
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120922T180000Z
+SUMMARY:Stade Brestois 29 - Valenciennes FC
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur beIN SPORT 1
+DTEND:20120922T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75972
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120923T190000Z
+SUMMARY:LOSC Lille - Olympique Lyonnais
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur Canal +
+DTEND:20120923T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75973
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120922T180000Z
+SUMMARY:FC Lorient - OGC Nice
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur beIN SPORT 1
+DTEND:20120922T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75974
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120923T150000Z
+SUMMARY:Olympique de Marseille - Evian TG FC
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur beIN SPORT 1
+DTEND:20120923T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75975
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120921T184500Z
+SUMMARY:Montpellier Hérault SC - AS Saint-Etienne
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur beIN SPORT 1
+DTEND:20120921T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75976
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120922T180000Z
+SUMMARY:Stade de Reims - AS Nancy-Lorraine
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur beIN SPORT 1
+DTEND:20120922T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75977
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120922T180000Z
+SUMMARY:FC Sochaux-Montbéliard - ESTAC Troyes
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur beIN SPORT 1
+DTEND:20120922T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75978
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120922T180000Z
+SUMMARY:Toulouse FC - Stade Rennais FC
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur beIN SPORT 1
+DTEND:20120922T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75979
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120929T180000Z
+SUMMARY:AC Ajaccio - Stade Brestois 29
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur beIN SPORT 1
+DTEND:20120929T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75980
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120929T180000Z
+SUMMARY:Evian TG FC - FC Lorient
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur beIN SPORT 1
+DTEND:20120929T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75981
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120930T190000Z
+SUMMARY:Olympique Lyonnais - Girondins de Bordeaux
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur Canal +
+DTEND:20120930T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75982
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120929T180000Z
+SUMMARY:AS Nancy-Lorraine - Montpellier Hérault SC
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur beIN SPORT 1
+DTEND:20120929T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75983
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120929T180000Z
+SUMMARY:OGC Nice - SC Bastia
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur beIN SPORT 1
+DTEND:20120929T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75984
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120929T153000Z
+SUMMARY:Paris Saint-Germain - FC Sochaux-Montbéliard
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur Canal +
+DTEND:20120929T173000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75985
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120928T184500Z
+SUMMARY:Stade Rennais FC - LOSC Lille
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur beIN SPORT 1
+DTEND:20120928T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75986
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120930T150000Z
+SUMMARY:AS Saint-Etienne - Stade de Reims
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur beIN SPORT 1
+DTEND:20120930T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120929T180000Z
+SUMMARY:ESTAC Troyes - Toulouse FC
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur beIN SPORT 1
+DTEND:20120929T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75988
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120930T120000Z
+SUMMARY:Valenciennes FC - Olympique de Marseille
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur beIN SPORT 1
+DTEND:20120930T140000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75989
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121006T180000Z
+SUMMARY:SC Bastia - ESTAC Troyes
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur beIN SPORT 1
+DTEND:20121006T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75990
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121007T120000Z
+SUMMARY:Stade Brestois 29 - Girondins de Bordeaux
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur beIN SPORT 1
+DTEND:20121007T140000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75991
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121006T180000Z
+SUMMARY:LOSC Lille - AC Ajaccio
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur beIN SPORT 1
+DTEND:20121006T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75992
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121007T150000Z
+SUMMARY:FC Lorient - Olympique Lyonnais
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur beIN SPORT 1
+DTEND:20121007T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75993
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121007T190000Z
+SUMMARY:Olympique de Marseille - Paris Saint-Germain
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur Canal +
+DTEND:20121007T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75994
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121006T150000Z
+SUMMARY:Montpellier Hérault SC - Evian TG FC
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur Canal +
+DTEND:20121006T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75995
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121006T180000Z
+SUMMARY:Stade de Reims - OGC Nice
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur beIN SPORT 1
+DTEND:20121006T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75996
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121005T184500Z
+SUMMARY:AS Saint-Etienne - AS Nancy-Lorraine
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur beIN SPORT 1
+DTEND:20121005T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75997
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121006T180000Z
+SUMMARY:FC Sochaux-Montbéliard - Stade Rennais FC
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur beIN SPORT 1
+DTEND:20121006T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75998
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121006T180000Z
+SUMMARY:Toulouse FC - Valenciennes FC
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur beIN SPORT 1
+DTEND:20121006T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75999
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121021T120000Z
+SUMMARY:AC Ajaccio - SC Bastia
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20121021T140000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76000
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121019T184500Z
+SUMMARY:Girondins de Bordeaux - LOSC Lille
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20121019T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76001
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121020T180000Z
+SUMMARY:Evian TG FC - Toulouse FC
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20121020T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76002
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121021T150000Z
+SUMMARY:Olympique Lyonnais - Stade Brestois 29
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20121021T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76003
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121020T180000Z
+SUMMARY:AS Nancy-Lorraine - FC Sochaux-Montbéliard
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20121020T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76004
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121020T180000Z
+SUMMARY:OGC Nice - AS Saint-Etienne
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20121020T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76005
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121020T150000Z
+SUMMARY:Paris Saint-Germain - Stade de Reims
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur Canal +
+DTEND:20121020T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76006
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121020T180000Z
+SUMMARY:Stade Rennais FC - Montpellier Hérault SC
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20121020T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76007
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121021T190000Z
+SUMMARY:ESTAC Troyes - Olympique de Marseille
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur Canal +
+DTEND:20121021T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76008
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121020T180000Z
+SUMMARY:Valenciennes FC - FC Lorient
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20121020T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76009
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121028T160000Z
+SUMMARY:SC Bastia - Girondins de Bordeaux
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur beIN SPORT 1
+DTEND:20121028T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76010
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121027T150000Z
+SUMMARY:LOSC Lille - Valenciennes FC
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur Canal +
+DTEND:20121027T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76011
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121028T130000Z
+SUMMARY:FC Lorient - AC Ajaccio
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur beIN SPORT 1
+DTEND:20121028T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76012
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121027T180000Z
+SUMMARY:Montpellier Hérault SC - OGC Nice
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur beIN SPORT 1
+DTEND:20121027T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76014
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121027T180000Z
+SUMMARY:AS Nancy-Lorraine - Paris Saint-Germain
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur beIN SPORT 1
+DTEND:20121027T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76015
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121027T180000Z
+SUMMARY:Stade de Reims - ESTAC Troyes
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur beIN SPORT 1
+DTEND:20121027T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76016
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121026T184500Z
+SUMMARY:AS Saint-Etienne - Stade Rennais FC
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur beIN SPORT 1
+DTEND:20121026T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76017
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121027T180000Z
+SUMMARY:Toulouse FC - Stade Brestois 29
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur beIN SPORT 1
+DTEND:20121027T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76019
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121107T173000Z
+SUMMARY:FC Sochaux-Montbéliard - Evian TG FC
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur beIN SPORT 2
+DTEND:20121107T193000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/77174
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121128T200000Z
+SUMMARY:Olympique de Marseille - Olympique Lyonnais
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur Canal +
+DTEND:20121128T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/77195
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121104T130000Z
+SUMMARY:AC Ajaccio - Olympique de Marseille
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121104T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76020
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121104T200000Z
+SUMMARY:Girondins de Bordeaux - Toulouse FC
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur Canal +
+DTEND:20121104T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76021
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121102T194500Z
+SUMMARY:Stade Brestois 29 - FC Lorient
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121102T214500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76022
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121103T190000Z
+SUMMARY:Evian TG FC - LOSC Lille
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121103T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76023
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121104T160000Z
+SUMMARY:Olympique Lyonnais - SC Bastia
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121104T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76024
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121103T190000Z
+SUMMARY:OGC Nice - AS Nancy-Lorraine
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121103T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76025
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121103T160000Z
+SUMMARY:Paris Saint-Germain - AS Saint-Etienne
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur Canal +
+DTEND:20121103T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121103T190000Z
+SUMMARY:Stade Rennais FC - Stade de Reims
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121103T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121103T190000Z
+SUMMARY:ESTAC Troyes - Montpellier Hérault SC
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121103T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76028
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121103T190000Z
+SUMMARY:Valenciennes FC - FC Sochaux-Montbéliard
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121103T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76029
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121110T190000Z
+SUMMARY:SC Bastia - Valenciennes FC
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur beIN SPORT 1
+DTEND:20121110T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76030
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121110T160000Z
+SUMMARY:LOSC Lille - Stade Brestois 29
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur Canal +
+DTEND:20121110T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76031
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121111T160000Z
+SUMMARY:FC Lorient - Girondins de Bordeaux
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur beIN SPORT 2
+DTEND:20121111T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76032
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121111T130000Z
+SUMMARY:Olympique de Marseille - OGC Nice
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur beIN SPORT 1
+DTEND:20121111T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76033
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121111T200000Z
+SUMMARY:Montpellier Hérault SC - Paris Saint-Germain
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur Canal +
+DTEND:20121111T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76034
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121109T194500Z
+SUMMARY:AS Nancy-Lorraine - Stade Rennais FC
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur beIN SPORT 1
+DTEND:20121109T214500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76035
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121110T190000Z
+SUMMARY:Stade de Reims - Evian TG FC
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur beIN SPORT 1
+DTEND:20121110T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76036
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121110T190000Z
+SUMMARY:AS Saint-Etienne - ESTAC Troyes
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur beIN SPORT 1
+DTEND:20121110T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76037
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121111T160000Z
+SUMMARY:FC Sochaux-Montbéliard - Olympique Lyonnais
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur beIN SPORT 1
+DTEND:20121111T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76038
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121110T190000Z
+SUMMARY:Toulouse FC - AC Ajaccio
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur beIN SPORT 1
+DTEND:20121110T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76039
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121117T190000Z
+SUMMARY:AC Ajaccio - FC Sochaux-Montbéliard
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121117T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76040
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121118T200000Z
+SUMMARY:Girondins de Bordeaux - Olympique de Marseille
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur Canal +
+DTEND:20121118T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76041
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121117T190000Z
+SUMMARY:Stade Brestois 29 - SC Bastia
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121117T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76042
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121117T190000Z
+SUMMARY:Evian TG FC - AS Saint-Etienne
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121117T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76043
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121116T194500Z
+SUMMARY:FC Lorient - LOSC Lille
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121116T214500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76044
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121118T130000Z
+SUMMARY:Olympique Lyonnais - Stade de Reims
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121118T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76045
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121118T160000Z
+SUMMARY:OGC Nice - Toulouse FC
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121118T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76046
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121117T160000Z
+SUMMARY:Paris Saint-Germain - Stade Rennais FC
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur Canal +
+DTEND:20121117T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76047
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121117T190000Z
+SUMMARY:ESTAC Troyes - AS Nancy-Lorraine
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121117T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76048
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121117T190000Z
+SUMMARY:Valenciennes FC - Montpellier Hérault SC
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121117T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76049
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121124T190000Z
+SUMMARY:SC Bastia - FC Lorient
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur beIN SPORT 1
+DTEND:20121124T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76050
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121125T200000Z
+SUMMARY:Olympique de Marseille - LOSC Lille
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur Canal +
+DTEND:20121125T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76051
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121125T130000Z
+SUMMARY:Montpellier Hérault SC - Girondins de Bordeaux
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur beIN SPORT 1
+DTEND:20121125T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76052
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121124T190000Z
+SUMMARY:AS Nancy-Lorraine - AC Ajaccio
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur beIN SPORT 1
+DTEND:20121124T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76053
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121124T160000Z
+SUMMARY:Paris Saint-Germain - ESTAC Troyes
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur Canal +
+DTEND:20121124T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76054
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121124T190000Z
+SUMMARY:Stade de Reims - Stade Brestois 29
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur beIN SPORT 1
+DTEND:20121124T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76055
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121124T190000Z
+SUMMARY:Stade Rennais FC - Evian TG FC
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur beIN SPORT 1
+DTEND:20121124T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76056
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121123T194500Z
+SUMMARY:AS Saint-Etienne - Valenciennes FC
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur beIN SPORT 1
+DTEND:20121123T214500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76057
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121124T190000Z
+SUMMARY:FC Sochaux-Montbéliard - OGC Nice
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur beIN SPORT 1
+DTEND:20121124T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76058
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121125T160000Z
+SUMMARY:Toulouse FC - Olympique Lyonnais
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur beIN SPORT 1
+DTEND:20121125T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76059
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121130T194500Z
+SUMMARY:AC Ajaccio - AS Saint-Etienne
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121130T214500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76060
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T190000Z
+SUMMARY:Girondins de Bordeaux - FC Sochaux-Montbéliard
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121201T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76061
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121202T130000Z
+SUMMARY:Stade Brestois 29 - Olympique de Marseille
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121202T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76062
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T190000Z
+SUMMARY:Evian TG FC - AS Nancy-Lorraine
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121201T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76063
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T190000Z
+SUMMARY:LOSC Lille - SC Bastia
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121201T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76064
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121202T200000Z
+SUMMARY:FC Lorient - Toulouse FC
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur Canal +
+DTEND:20121202T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76065
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T160000Z
+SUMMARY:Olympique Lyonnais - Montpellier Hérault SC
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur Canal +
+DTEND:20121201T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76066
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T190000Z
+SUMMARY:OGC Nice - Paris Saint-Germain
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121201T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76067
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121202T160000Z
+SUMMARY:ESTAC Troyes - Stade Rennais FC
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121202T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76068
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T190000Z
+SUMMARY:Valenciennes FC - Stade de Reims
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121201T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76069
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121209T160000Z
+SUMMARY:Olympique de Marseille - FC Lorient
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121209T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76070
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121208T190000Z
+SUMMARY:Montpellier Hérault SC - AC Ajaccio
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121208T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76071
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121208T190000Z
+SUMMARY:AS Nancy-Lorraine - Valenciennes FC
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121208T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76072
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121208T160000Z
+SUMMARY:Paris Saint-Germain - Evian TG FC
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur Canal +
+DTEND:20121208T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76073
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121209T130000Z
+SUMMARY:Stade de Reims - Girondins de Bordeaux
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121209T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76074
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121208T190000Z
+SUMMARY:Stade Rennais FC - Stade Brestois 29
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121208T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76075
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121209T200000Z
+SUMMARY:AS Saint-Etienne - Olympique Lyonnais
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur Canal +
+DTEND:20121209T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76076
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121208T190000Z
+SUMMARY:FC Sochaux-Montbéliard - LOSC Lille
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121208T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76077
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121207T194500Z
+SUMMARY:Toulouse FC - SC Bastia
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121207T214500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76078
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121208T190000Z
+SUMMARY:ESTAC Troyes - OGC Nice
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121208T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76079
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121212T180000Z
+SUMMARY:AC Ajaccio - Stade de Reims
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 1
+DTEND:20121212T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76080
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121212T200000Z
+SUMMARY:SC Bastia - Olympique de Marseille
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 1
+DTEND:20121212T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76081
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121213T200000Z
+SUMMARY:Girondins de Bordeaux - AS Saint-Etienne
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur Canal + Sport
+DTEND:20121213T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76082
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121212T180000Z
+SUMMARY:Stade Brestois 29 - Montpellier Hérault SC
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 1
+DTEND:20121212T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121212T180000Z
+SUMMARY:Evian TG FC - ESTAC Troyes
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 1
+DTEND:20121212T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T200000Z
+SUMMARY:LOSC Lille - Toulouse FC
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur Canal +
+DTEND:20121211T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76085
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121212T180000Z
+SUMMARY:FC Lorient - FC Sochaux-Montbéliard
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 1
+DTEND:20121212T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76086
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121212T180000Z
+SUMMARY:Olympique Lyonnais - AS Nancy-Lorraine
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 1
+DTEND:20121212T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76087
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T180000Z
+SUMMARY:OGC Nice - Stade Rennais FC
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 2
+DTEND:20121211T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76088
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T180000Z
+SUMMARY:Valenciennes FC - Paris Saint-Germain
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 1
+DTEND:20121211T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76089
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121215T190000Z
+SUMMARY:Montpellier Hérault SC - SC Bastia
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur beIN SPORT 1
+DTEND:20121215T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76090
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121216T130000Z
+SUMMARY:AS Nancy-Lorraine - Girondins de Bordeaux
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur beIN SPORT 1
+DTEND:20121216T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76091
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121215T190000Z
+SUMMARY:OGC Nice - Evian TG FC
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur beIN SPORT 1
+DTEND:20121215T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76092
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121216T200000Z
+SUMMARY:Paris Saint-Germain - Olympique Lyonnais
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur Canal +
+DTEND:20121216T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76093
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121215T190000Z
+SUMMARY:Stade de Reims - LOSC Lille
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur beIN SPORT 1
+DTEND:20121215T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76094
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121214T194500Z
+SUMMARY:Stade Rennais FC - Valenciennes FC
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur beIN SPORT 1
+DTEND:20121214T214500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76095
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121216T160000Z
+SUMMARY:AS Saint-Etienne - FC Lorient
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur beIN SPORT 1
+DTEND:20121216T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76096
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121215T190000Z
+SUMMARY:FC Sochaux-Montbéliard - Stade Brestois 29
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur beIN SPORT 1
+DTEND:20121215T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76097
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121215T160000Z
+SUMMARY:Toulouse FC - Olympique de Marseille
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur Canal +
+DTEND:20121215T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76098
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121215T190000Z
+SUMMARY:ESTAC Troyes - AC Ajaccio
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur beIN SPORT 1
+DTEND:20121215T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76099
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121222T190000Z
+SUMMARY:AC Ajaccio - Stade Rennais FC
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121222T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76100
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121222T190000Z
+SUMMARY:SC Bastia - AS Nancy-Lorraine
+LOCATION:Stade Jean-Laville 
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121222T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76101
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121222T190000Z
+SUMMARY:Girondins de Bordeaux - ESTAC Troyes
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121222T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76102
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121221T194500Z
+SUMMARY:Stade Brestois 29 - Paris Saint-Germain
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121221T214500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76103
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121222T160000Z
+SUMMARY:LOSC Lille - Montpellier Hérault SC
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur Canal +
+DTEND:20121222T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76104
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121222T190000Z
+SUMMARY:FC Lorient - Stade de Reims
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121222T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76105
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121222T190000Z
+SUMMARY:Olympique Lyonnais - OGC Nice
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121222T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76106
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121223T200000Z
+SUMMARY:Olympique de Marseille - AS Saint-Etienne
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur Canal +
+DTEND:20121223T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76107
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121223T160000Z
+SUMMARY:Toulouse FC - FC Sochaux-Montbéliard
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121223T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76108
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121223T130000Z
+SUMMARY:Valenciennes FC - Evian TG FC
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121223T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76109
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130112T190000Z
+SUMMARY:Evian TG FC - Stade Brestois 29
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur beIN SPORT 1
+DTEND:20130112T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76110
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130112T190000Z
+SUMMARY:Montpellier Hérault SC - FC Lorient
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur beIN SPORT 1
+DTEND:20130112T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76111
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130112T190000Z
+SUMMARY:AS Nancy-Lorraine - LOSC Lille
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur beIN SPORT 1
+DTEND:20130112T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76112
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130113T160000Z
+SUMMARY:OGC Nice - Valenciennes FC
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur beIN SPORT 1
+DTEND:20130113T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76113
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T200000Z
+SUMMARY:Paris Saint-Germain - AC Ajaccio
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur beIN SPORT 1
+DTEND:20130111T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76114
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130113T130000Z
+SUMMARY:Stade de Reims - SC Bastia
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur beIN SPORT 1
+DTEND:20130113T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76115
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130112T190000Z
+SUMMARY:Stade Rennais FC - Girondins de Bordeaux
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur beIN SPORT 1
+DTEND:20130112T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76116
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T180000Z
+SUMMARY:AS Saint-Etienne - Toulouse FC
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur beIN SPORT 1
+DTEND:20130111T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76117
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130113T200000Z
+SUMMARY:FC Sochaux-Montbéliard - Olympique de Marseille
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur Canal +
+DTEND:20130113T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76118
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130112T160000Z
+SUMMARY:ESTAC Troyes - Olympique Lyonnais
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur Canal +
+DTEND:20130112T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76119
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130119T190000Z
+SUMMARY:AC Ajaccio - Valenciennes FC
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur beIN SPORT 1
+DTEND:20130119T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76120
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130120T130000Z
+SUMMARY:SC Bastia - Stade Rennais FC
+LOCATION:Stade Jean-Laville 
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur beIN SPORT 1
+DTEND:20130120T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76121
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130120T200000Z
+SUMMARY:Girondins de Bordeaux - Paris Saint-Germain
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur Canal +
+DTEND:20130120T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76122
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130119T190000Z
+SUMMARY:Stade Brestois 29 - AS Saint-Etienne
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur beIN SPORT 1
+DTEND:20130119T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76123
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130120T160000Z
+SUMMARY:LOSC Lille - OGC Nice
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur beIN SPORT 1
+DTEND:20130120T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76124
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130119T190000Z
+SUMMARY:FC Lorient - ESTAC Troyes
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur beIN SPORT 1
+DTEND:20130119T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76125
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130118T193000Z
+SUMMARY:Olympique Lyonnais - Evian TG FC
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur beIN SPORT 1
+DTEND:20130118T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76126
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130119T160000Z
+SUMMARY:Olympique de Marseille - Montpellier Hérault SC
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur Canal +
+DTEND:20130119T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76127
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130119T150000Z
+SUMMARY:FC Sochaux-Montbéliard - Stade de Reims
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur beIN SPORT 1
+DTEND:20130119T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76128
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130119T190000Z
+SUMMARY:Toulouse FC - AS Nancy-Lorraine
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur beIN SPORT 1
+DTEND:20130119T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76129
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130126T190000Z
+SUMMARY:Evian TG FC - AC Ajaccio
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130126T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76130
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130126T190000Z
+SUMMARY:Montpellier Hérault SC - FC Sochaux-Montbéliard
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130126T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76131
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130126T190000Z
+SUMMARY:AS Nancy-Lorraine - FC Lorient
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130126T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76132
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130127T160000Z
+SUMMARY:OGC Nice - Girondins de Bordeaux
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130127T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76133
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130127T200000Z
+SUMMARY:Paris Saint-Germain - LOSC Lille
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur Canal +
+DTEND:20130127T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76134
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130126T190000Z
+SUMMARY:Stade de Reims - Toulouse FC
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130126T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76135
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130126T160000Z
+SUMMARY:Stade Rennais FC - Olympique de Marseille
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur Canal +
+DTEND:20130126T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76136
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130127T130000Z
+SUMMARY:AS Saint-Etienne - SC Bastia
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130127T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76137
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130126T190000Z
+SUMMARY:ESTAC Troyes - Stade Brestois 29
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130126T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76138
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130125T193000Z
+SUMMARY:Valenciennes FC - Olympique Lyonnais
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130125T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76139
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130203T130000Z
+SUMMARY:AC Ajaccio - Olympique Lyonnais
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130203T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130202T190000Z
+SUMMARY:SC Bastia - Evian TG FC
+LOCATION:Stade Abbé Deschamps
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130202T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76141
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130202T190000Z
+SUMMARY:Girondins de Bordeaux - Valenciennes FC
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130202T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76142
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130202T190000Z
+SUMMARY:Stade Brestois 29 - OGC Nice
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130202T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76143
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130202T190000Z
+SUMMARY:LOSC Lille - ESTAC Troyes
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130202T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76144
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130202T160000Z
+SUMMARY:FC Lorient - Stade Rennais FC
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur Canal +
+DTEND:20130202T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76145
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130203T200000Z
+SUMMARY:Olympique de Marseille - AS Nancy-Lorraine
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur Canal +
+DTEND:20130203T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76146
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130203T160000Z
+SUMMARY:Montpellier Hérault SC - Stade de Reims
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130203T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76147
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130202T190000Z
+SUMMARY:FC Sochaux-Montbéliard - AS Saint-Etienne
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130202T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76148
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130201T193000Z
+SUMMARY:Toulouse FC - Paris Saint-Germain
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130201T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76149
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130209T190000Z
+SUMMARY:AC Ajaccio - Girondins de Bordeaux
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130209T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76150
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130210T130000Z
+SUMMARY:Evian TG FC - Olympique de Marseille
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130210T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76151
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130210T200000Z
+SUMMARY:Olympique Lyonnais - LOSC Lille
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur Canal +
+DTEND:20130210T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76152
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130209T190000Z
+SUMMARY:AS Nancy-Lorraine - Stade de Reims
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130209T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76153
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130209T190000Z
+SUMMARY:OGC Nice - FC Lorient
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130209T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76154
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130208T193000Z
+SUMMARY:Paris Saint-Germain - SC Bastia
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130208T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76155
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130210T160000Z
+SUMMARY:Stade Rennais FC - Toulouse FC
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130210T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76156
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130209T160000Z
+SUMMARY:AS Saint-Etienne - Montpellier Hérault SC
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur Canal +
+DTEND:20130209T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76157
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130209T190000Z
+SUMMARY:ESTAC Troyes - FC Sochaux-Montbéliard
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130209T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76158
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130209T190000Z
+SUMMARY:Valenciennes FC - Stade Brestois 29
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130209T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76159
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130216T190000Z
+SUMMARY:SC Bastia - OGC Nice
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur beIN SPORT 1
+DTEND:20130216T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76160
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130217T130000Z
+SUMMARY:Girondins de Bordeaux - Olympique Lyonnais
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur beIN SPORT 1
+DTEND:20130217T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76161
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130216T190000Z
+SUMMARY:Stade Brestois 29 - AC Ajaccio
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur beIN SPORT 1
+DTEND:20130216T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76162
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130215T193000Z
+SUMMARY:LOSC Lille - Stade Rennais FC
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur beIN SPORT 1
+DTEND:20130215T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76163
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130216T190000Z
+SUMMARY:FC Lorient - Evian TG FC
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur beIN SPORT 1
+DTEND:20130216T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76164
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130216T160000Z
+SUMMARY:Olympique de Marseille - Valenciennes FC
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur Canal +
+DTEND:20130216T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76165
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130216T190000Z
+SUMMARY:Montpellier Hérault SC - AS Nancy-Lorraine
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur beIN SPORT 1
+DTEND:20130216T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76166
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130217T160000Z
+SUMMARY:Stade de Reims - AS Saint-Etienne
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur beIN SPORT 1
+DTEND:20130217T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76167
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130217T200000Z
+SUMMARY:FC Sochaux-Montbéliard - Paris Saint-Germain
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur Canal +
+DTEND:20130217T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76168
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130216T190000Z
+SUMMARY:Toulouse FC - ESTAC Troyes
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur beIN SPORT 1
+DTEND:20130216T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76169
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130223T190000Z
+SUMMARY:AC Ajaccio - LOSC Lille
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur beIN SPORT 1
+DTEND:20130223T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76170
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130224T160000Z
+SUMMARY:Girondins de Bordeaux - Stade Brestois 29
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur beIN SPORT 1
+DTEND:20130224T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76171
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130223T190000Z
+SUMMARY:Evian TG FC - Montpellier Hérault SC
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur beIN SPORT 1
+DTEND:20130223T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76172
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130224T130000Z
+SUMMARY:Olympique Lyonnais - FC Lorient
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur beIN SPORT 1
+DTEND:20130224T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76173
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130223T190000Z
+SUMMARY:AS Nancy-Lorraine - AS Saint-Etienne
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur beIN SPORT 1
+DTEND:20130223T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76174
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130222T193000Z
+SUMMARY:OGC Nice - Stade de Reims
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur beIN SPORT 1
+DTEND:20130222T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76175
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130224T200000Z
+SUMMARY:Paris Saint-Germain - Olympique de Marseille
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur Canal +
+DTEND:20130224T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76176
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130223T160000Z
+SUMMARY:Stade Rennais FC - FC Sochaux-Montbéliard
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur Canal +
+DTEND:20130223T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76177
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130223T190000Z
+SUMMARY:ESTAC Troyes - SC Bastia
+LOCATION:Stade de l'Aube
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur beIN SPORT 1
+DTEND:20130223T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76178
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130223T190000Z
+SUMMARY:Valenciennes FC - Toulouse FC
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur beIN SPORT 1
+DTEND:20130223T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76179
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130302T190000Z
+SUMMARY:SC Bastia - AC Ajaccio
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130302T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76180
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130303T130000Z
+SUMMARY:Stade Brestois 29 - Olympique Lyonnais
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130303T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76181
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130303T200000Z
+SUMMARY:LOSC Lille - Girondins de Bordeaux
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur Canal +
+DTEND:20130303T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76182
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130302T190000Z
+SUMMARY:FC Lorient - Valenciennes FC
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130302T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76183
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130303T160000Z
+SUMMARY:Olympique de Marseille - ESTAC Troyes
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130303T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76184
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130301T193000Z
+SUMMARY:Montpellier Hérault SC - Stade Rennais FC
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130301T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76185
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130302T160000Z
+SUMMARY:Stade de Reims - Paris Saint-Germain
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur Canal +
+DTEND:20130302T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76186
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130302T190000Z
+SUMMARY:AS Saint-Etienne - OGC Nice
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130302T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76187
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130302T190000Z
+SUMMARY:FC Sochaux-Montbéliard - AS Nancy-Lorraine
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130302T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76188
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130302T190000Z
+SUMMARY:Toulouse FC - Evian TG FC
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130302T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76189
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:AC Ajaccio - FC Lorient
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76190
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:Girondins de Bordeaux - SC Bastia
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76191
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:Stade Brestois 29 - Toulouse FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76192
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:Evian TG FC - FC Sochaux-Montbéliard
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76193
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:Olympique Lyonnais - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76194
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:OGC Nice - Montpellier Hérault SC
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76195
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:Paris Saint-Germain - AS Nancy-Lorraine
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76196
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:Stade Rennais FC - AS Saint-Etienne
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76197
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:ESTAC Troyes - Stade de Reims
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76198
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:Valenciennes FC - LOSC Lille
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76199
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:SC Bastia - Olympique Lyonnais
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76200
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:LOSC Lille - Evian TG FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76201
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:FC Lorient - Stade Brestois 29
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76202
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:Olympique de Marseille - AC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76203
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:Montpellier Hérault SC - ESTAC Troyes
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76204
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:AS Nancy-Lorraine - OGC Nice
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76205
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:Stade de Reims - Stade Rennais FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76206
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:AS Saint-Etienne - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76207
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:FC Sochaux-Montbéliard - Valenciennes FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76208
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:Toulouse FC - Girondins de Bordeaux
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76209
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:AC Ajaccio - Toulouse FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76210
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:Girondins de Bordeaux - FC Lorient
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76211
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:Stade Brestois 29 - LOSC Lille
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76212
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:Evian TG FC - Stade de Reims
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76213
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:Olympique Lyonnais - FC Sochaux-Montbéliard
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76214
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:OGC Nice - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76215
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:Paris Saint-Germain - Montpellier Hérault SC
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76216
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:Stade Rennais FC - AS Nancy-Lorraine
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76217
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:ESTAC Troyes - AS Saint-Etienne
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76218
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:Valenciennes FC - SC Bastia
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76219
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:SC Bastia - Stade Brestois 29
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76220
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:LOSC Lille - FC Lorient
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76221
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:Olympique de Marseille - Girondins de Bordeaux
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76222
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:Montpellier Hérault SC - Valenciennes FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76223
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:AS Nancy-Lorraine - ESTAC Troyes
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76224
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:Stade de Reims - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76225
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:Stade Rennais FC - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76226
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:AS Saint-Etienne - Evian TG FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76227
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:FC Sochaux-Montbéliard - AC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76228
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:Toulouse FC - OGC Nice
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76229
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:AC Ajaccio - AS Nancy-Lorraine
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76230
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:Girondins de Bordeaux - Montpellier Hérault SC
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76231
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:Stade Brestois 29 - Stade de Reims
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76232
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:Evian TG FC - Stade Rennais FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76233
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:LOSC Lille - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76234
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:FC Lorient - SC Bastia
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76235
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:Olympique Lyonnais - Toulouse FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76236
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:OGC Nice - FC Sochaux-Montbéliard
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76237
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:ESTAC Troyes - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76238
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:Valenciennes FC - AS Saint-Etienne
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76239
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:SC Bastia - LOSC Lille
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76240
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:Olympique de Marseille - Stade Brestois 29
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76241
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:Montpellier Hérault SC - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76242
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:AS Nancy-Lorraine - Evian TG FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76243
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:Paris Saint-Germain - OGC Nice
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76244
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:Stade de Reims - Valenciennes FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76245
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:Stade Rennais FC - ESTAC Troyes
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76246
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:AS Saint-Etienne - AC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76247
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:FC Sochaux-Montbéliard - Girondins de Bordeaux
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76248
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:Toulouse FC - FC Lorient
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76249
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:AC Ajaccio - Montpellier Hérault SC
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76250
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:SC Bastia - Toulouse FC
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76251
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:Girondins de Bordeaux - Stade de Reims
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76252
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:Stade Brestois 29 - Stade Rennais FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76253
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:Evian TG FC - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76254
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:LOSC Lille - FC Sochaux-Montbéliard
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76255
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:FC Lorient - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76256
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:Olympique Lyonnais - AS Saint-Etienne
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76257
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:OGC Nice - ESTAC Troyes
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76258
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:Valenciennes FC - AS Nancy-Lorraine
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76259
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:Olympique de Marseille - SC Bastia
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76260
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:Montpellier Hérault SC - Stade Brestois 29
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76261
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:AS Nancy-Lorraine - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76262
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:Paris Saint-Germain - Valenciennes FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76263
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:Stade de Reims - AC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76264
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:Stade Rennais FC - OGC Nice
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76265
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:AS Saint-Etienne - Girondins de Bordeaux
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76266
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:FC Sochaux-Montbéliard - FC Lorient
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76267
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:Toulouse FC - LOSC Lille
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76268
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:ESTAC Troyes - Evian TG FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76269
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:AC Ajaccio - ESTAC Troyes
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76270
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:SC Bastia - Montpellier Hérault SC
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76271
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:Girondins de Bordeaux - AS Nancy-Lorraine
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76272
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:Stade Brestois 29 - FC Sochaux-Montbéliard
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76273
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:Evian TG FC - OGC Nice
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76274
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:LOSC Lille - Stade de Reims
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76275
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:FC Lorient - AS Saint-Etienne
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76276
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:Olympique Lyonnais - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76277
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:Olympique de Marseille - Toulouse FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76278
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:Valenciennes FC - Stade Rennais FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76279
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:Evian TG FC - Valenciennes FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76280
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:Montpellier Hérault SC - LOSC Lille
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76281
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:AS Nancy-Lorraine - SC Bastia
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76282
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:OGC Nice - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76283
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:Paris Saint-Germain - Stade Brestois 29
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76284
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:Stade de Reims - FC Lorient
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76285
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:Stade Rennais FC - AC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76286
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:AS Saint-Etienne - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76287
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:FC Sochaux-Montbéliard - Toulouse FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76288
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:ESTAC Troyes - Girondins de Bordeaux
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76289
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:AC Ajaccio - OGC Nice
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76290
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:SC Bastia - FC Sochaux-Montbéliard
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76291
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:Girondins de Bordeaux - Evian TG FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76292
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:Stade Brestois 29 - AS Nancy-Lorraine
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76293
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:LOSC Lille - AS Saint-Etienne
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76294
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:FC Lorient - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76295
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:Olympique Lyonnais - Stade Rennais FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76296
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:Olympique de Marseille - Stade de Reims
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76297
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:Toulouse FC - Montpellier Hérault SC
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76298
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:Valenciennes FC - ESTAC Troyes
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76299
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
