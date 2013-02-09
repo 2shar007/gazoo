@@ -151,4 +151,34 @@ $app->get('/planning', function () use($app) {
     return $app['twig']->render('planning.twig', array('events' => $events));
 })->bind('planning');
 
+/*
+ * Search
+ */
+$app->post('/search', function (Request $request) use ($app) {
+    $search = $request->get('q');
+    $sqlCommon = '
+        FROM event AS e
+        LEFT JOIN event_tag AS et ON et.id_event = e.id
+        LEFT JOIN tag AS tevent ON tevent.id = et.id_tag
+        INNER JOIN subject_event AS se ON se.id_event = e.id
+        INNER JOIN subject AS s ON s.id = se.id_subject
+        WHERE ';
+
+    $params = array();
+    $cpt = 0;
+    foreach (explode(' ', $search) as $part) {
+        $tag = ':search' . $cpt;
+        $sqlCommonParts[] = "e.name LIKE $tag OR tevent.name LIKE $tag OR tevent.description LIKE $tag";
+        $params[$tag] = '%'.$part.'%';
+        $cpt++;
+    }
+    $sqlCommon .= '(' . implode(') AND (', $sqlCommonParts) . ')';
+    $sqlCount = 'SELECT COUNT(DISTINCT e.id)' . $sqlCommon;
+    $sqlData = 'SELECT e.*, s.id AS subject_id, s.name AS subject_name' . $sqlCommon . ' GROUP BY e.id ORDER BY e.start DESC';
+
+    $total_result = $app['db']->fetchColumn($sqlCount, $params);
+    $events = $app['db']->fetchAll($sqlData, $params);
+    return $app['twig']->render('search.twig', array('events' => $events, 'total_result' => $total_result, 'search_query' => $search));
+})->bind('search');
+
 $app->run();

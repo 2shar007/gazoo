@@ -3,12 +3,13 @@
 {% block title %}{{ user.username }}'s planning{% endblock %}
 
 {% block content %}
-    <h1>My planning</h1>
-    <p class="lead">See <b>your</b> upcoming events</p>
-    <dl>
+    <h1>Search Results for "{{ search_query }}"</h1>
+    <p class="lead"><b>{{ total_result }}</b> events found</p>
+    {% include 'search.form.twig' %}
+    <div class="listing">
     {% for event in events %}
-        <dt><strong>{{ event.name|convert_encoding('UTF-8', 'ISO-8859-1') }}</strong> - <a href="{{ url('calendar', {id: event.subject_id}) }}">{{ event.subject_name }}{{ event.subject_alias is empty ? '' : ' (' ~ event.subject_alias ~ ')' }}</a></dt>
-        <dd>
+        <div class="listing-row">
+            <strong>{{ event.name|convert_encoding('UTF-8', 'ISO-8859-1') }}</strong> - <a href="{{ url('calendar', {id: event.subject_id}) }}">{{ event.subject_name }}</a>{% include 'follow.button.twig' with {id: event.subject_id} %}
             <p>
                 {{ event.description }} <br />
                 <small>
@@ -19,7 +20,7 @@
                 {% endif %}
                 </small>
             </p>
-        </dd>
+        </div>
     {% endfor %}
-    </dl>
+    </div>
 {% endblock %}
