@@ -12,7 +12,7 @@ $app['debug'] = true;
 
 // Register Session
 $app->register(new Silex\Provider\SessionServiceProvider(), array(
-    'session.storage.save_path' => '/tmp/kalendy'
+    'session.storage.save_path' => __DIR__ . '/../tmp/'
 ));
 
 // Register Twig
