@@ -29,16 +29,13 @@ class AnimeHTMLParser(HTMLParser):
 
   def handle_data(self, data):
     if (self.title):
-        print('subject/name : ' + data)
+        self.anime.title = data
         self.title = False
     
     if (self.content):
-        print('subject/content : ' + data)
+        self.anime.description = data
         self.content = False
-    # print("Encoutered a start tag : " + tag)
-    # print(attrs)
 
-
-if __name__ == '__main__':
-  parser = AnimeHTMLParser()
-  parser.feed(urllib.request.urlopen('http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14089').read().decode('utf-8'))
+  def feedAnime(self, url, anime):
+    self.anime = anime
+    self.feed(urllib.request.urlopen(url).read().decode('utf-8'))

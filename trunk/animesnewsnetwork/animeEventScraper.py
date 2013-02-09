@@ -1,9 +1,10 @@
 from html.parser import HTMLParser
+from event import Event
 import urllib.request
 
-class AnimeHTMLParser(HTMLParser):
+class AnimeEventHTMLParser(HTMLParser):
 
-  def __init__(self, animeId):
+  def __init__(self):
     super().__init__()
     self.date = False
     self.predate = False
@@ -12,7 +13,7 @@ class AnimeHTMLParser(HTMLParser):
     self.episodeTitle = False
     self.titleBuffer = ""
     self.inEpisodeTable = False
-    self.animeId = animeId
+    self.event = Event()
 
   def handle_starttag(self, tag, attrs):
     if (tag=='title' and self.get_starttag_text()=="Resouce not found"):
@@ -22,6 +23,9 @@ class AnimeHTMLParser(HTMLParser):
       for attribute in attrs:
         if (attribute[0]=='class' and attribute[1]=="episode-list"):
           self.inEpisodeTable = True
+
+    if (self.inEpisodeTable and tag=='tr'):
+      self.event = Event()
 
     if (self.inEpisodeTable and tag=='td'):
       for attribute in attrs:
@@ -40,7 +44,8 @@ class AnimeHTMLParser(HTMLParser):
 
   def handle_data(self, data):
     if (self.date):
-        print('event/date : ' + data)
+        self.event.start = data
+        self.event.end = data
         self.episodeTitle = False
         self.date = False
 
@@ -55,12 +60,12 @@ class AnimeHTMLParser(HTMLParser):
     
   def handle_endtag(self, tag):
     if (self.inEpisodeTable and tag == 'tr'):
-      print("event/name : " + self.titleBuffer)
+      self.event.name = self.titleBuffer
+      self.anime.events.append(self.event)
 
     if (self.inEpisodeTable and tag=='table'):
       self.inEpisodeTable = False
 
-
-if __name__ == '__main__':
-  parser = AnimeHTMLParser(1)
-  parser.feed(urllib.request.urlopen('http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14089&page=25').read().decode('utf-8'))
+  def feedAnime(self, url, anime):
+    self.anime = anime
+    self.feed(urllib.request.urlopen(url).read().decode('utf-8'))
