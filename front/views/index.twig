@@ -1,8 +1,11 @@
 {% extends "layout.twig" %}
 
-{% block title %}Index{% endblock %}
+{% block title %}Home{% endblock %}
 
 {% block content %}
-    <h1>Bootstrap starter template</h1>
-    <p>Use this document as a way to quick start any new project.<br> All you get is this message and a barebones HTML document.</p>
+<div class="hero-unit">
+    <h1>{{ sitename }}</h1>
+    <p>Let's Rock peoples !</p>
+    <a href="{{ url('calendars') }}" class="btn btn-primary">See calendars</a>
+</div>
 {% endblock %}

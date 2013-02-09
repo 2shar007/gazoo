@@ -1,0 +1,25 @@
+{% extends "layout.twig" %}
+
+{% block title %}{{ user.username }}'s planning{% endblock %}
+
+{% block content %}
+    <h1>My planning</h1>
+    <p class="lead">See <b>your</b> upcoming events</p>
+    <dl>
+    {% for event in events %}
+        <dt><strong>{{ event.name }}</strong> - <a href="{{ url('calendar', {id: event.subject_id}) }}">{{ event.subject_name }}{{ event.subject_alias is empty ? '' : ' (' ~ event.subject_alias ~ ')' }}</a></dt>
+        <dd>
+            <p>
+                {{ event.description }} <br />
+                <small>
+                {% if event.start and event.end %}
+                    Starting on {{ event.start|date() }} and ending on {{ event.end|date() }}
+                {% else %}
+                    Date : {{ event.start }}
+                {% endif %}
+                </small>
+            </p>
+        </dd>
+    {% endfor %}
+    </dl>
+{% endblock %}
