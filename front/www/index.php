@@ -11,7 +11,9 @@ $app = new Silex\Application();
 $app['debug'] = true;
 
 // Register Session
-$app->register(new Silex\Provider\SessionServiceProvider());
+$app->register(new Silex\Provider\SessionServiceProvider(), array(
+    'session.storage.save_path' => '/tmp/kalendy'
+));
 
 // Register Twig
 $app->register(new Silex\Provider\TwigServiceProvider(), array(
