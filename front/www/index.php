@@ -29,10 +29,11 @@ $app['twig'] = $app->share($app->extend('twig', function($twig, $app)
     $following = array();
     if ($user)
     {
-        $res = $app['db']->fetchAssoc('
+        $res = $app['db']->fetchAll('
             SELECT s.* FROM subject AS s
             INNER JOIN user_subject AS us ON us.id_subject = s.id AND us.id_user = ?', array((int)$user['id']));
-        if ($res) {
+        if ($res)
+        {
             foreach ($res as $r)
                 $following[$r['id']] = $r;
         }
