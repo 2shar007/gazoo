@@ -46,6 +46,10 @@ var callback = {
         window.location.reload();
     },
     onfollow: function (resp) {
+        $.pnotify({
+                title: 'Events add to you calendar',
+                type: 'info'
+        });
         $('.follow-button[data-calendar-id="' + resp.id + '"]').replaceWith(resp.content);
 		//alert('test');
 		$.get($('#baseUrl').val() + 'push/' + resp.id);

@@ -10,6 +10,7 @@
         <!-- Le styles -->
         <link href="{{ app.request.uriForPath('/assets/css/bootstrap.css') }}" rel="stylesheet">
         <link href="{{ app.request.uriForPath('/assets/css/gazoo.css') }}" rel="stylesheet">
+        <link href="{{ app.request.uriForPath('/assets/css/jquery.pnotify.default.css') }}" rel="stylesheet">
         <style>
           body {
             padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
@@ -26,6 +27,7 @@
 
     <script src="{{ app.request.uriForPath('/assets/js/jquery.js') }}"></script>
     <script src="{{ app.request.uriForPath('/assets/js/bootstrap.js') }}"></script>
+    <script src="{{ app.request.uriForPath('/assets/js/jquery.pnotify.js') }}"></script>
     <script src="{{ app.request.uriForPath('/assets/js/gazoo.js') }}"></script>
 	<input id="baseUrl" type="hidden" value="{{ url('home') }}" />
   </body>
