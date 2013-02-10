@@ -47,9 +47,13 @@ var callback = {
     },
     onfollow: function (resp) {
         $('.follow-button[data-calendar-id="' + resp.id + '"]').html(resp.content);
+		//alert('test');
+		$.get($('#baseUrl').val() + 'push/' + resp.id);
     },
     onunfollow: function (resp) {
-
+		//alert('untest');
+        $('.follow-button[data-calendar-id="' + resp.id + '"]').html(resp.content);
+		$.get($('#baseUrl').val() + 'unpush/' + resp.id);
     }
 };
 
