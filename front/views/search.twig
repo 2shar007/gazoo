@@ -9,7 +9,7 @@
     <div class="listing">
     {% for event in events %}
         <div class="listing-row">
-            ({{subject_category}}) <strong>{{ event.name|convert_encoding('UTF-8', 'ISO-8859-1') }}</strong> - <a href="{{ url('calendar', {id: event.subject_id}) }}">{{ event.subject_name }}</a>{% include 'follow.button.twig' with {id: event.subject_id} %}
+            ({{ event.subject_category }}) <strong>{{ event.name|convert_encoding('UTF-8', 'ISO-8859-1') }}</strong> - <a href="{{ url('calendar', {id: event.subject_id}) }}">{{ event.subject_name }}</a>{% include 'follow.button.twig' with {id: event.subject_id} %}
             <p>
                 {{ event.description }} <br />
                 <small>
