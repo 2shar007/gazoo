@@ -86,6 +86,7 @@ try:
 						pass
 				if ready is True:
 					try:
+						# sanitize queries for special characters
 						insert_event = "INSERT INTO event(name, description, start) VALUES ('" + name + "','" + genre + "','" + time + "')"
 						cursor.execute(insert_event)
 						print(name + "[" + str(conn.insert_id()) + "]: " + genre + " at " + time)
