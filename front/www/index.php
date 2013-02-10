@@ -145,7 +145,7 @@ $app->get('/planning', function () use($app) {
         INNER JOIN subject_event AS se ON e.id = se.id_event
         INNER JOIN subject AS s ON s.id = se.id_subject
         INNER JOIN user_subject AS us ON us.id_subject = se.id_subject
-        WHERE us.id_user = ?
+        WHERE us.id_user = ? AND DATEDIFF(e.start,CURDATE())>0 
         ORDER BY e.start DESC';
     $events = $app['db']->fetchAll($sql, array($user['id']));
     return $app['twig']->render('planning.twig', array('events' => $events));
