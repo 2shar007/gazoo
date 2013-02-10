@@ -74,7 +74,7 @@ $calendar->get('/{id}', function ($id) use ($app) {
     $events = $app['db']->fetchAll('
         SELECT * FROM event AS e
         INNER JOIN subject_event AS se ON se.id_event = e.id AND se.id_subject = ?
-        ORDER BY e.start DESC', array((int)$id));
+        ORDER BY e.start ASC', array((int)$id));
     return $app['twig']->render('calendar.view.twig', array('calendar' => $calendar, 'events' => $events));
 })->bind('calendar');
 
