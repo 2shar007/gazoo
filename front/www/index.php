@@ -172,8 +172,8 @@ $app->post('/search', function (Request $request) use ($app) {
         $params[$tag] = '%'.$part.'%';
         $cpt++;
     }
-    $dateFilter = "DATEDIFF( `start` , CURDATE( ) ) >0 AND "
-    $sqlCommon .= $dateFilter
+    $dateFilter = "DATEDIFF( `start` , CURDATE( ) ) >0 AND ";
+    $sqlCommon .= $dateFilter;
     $sqlCommon .= '(' . implode(') AND (', $sqlCommonParts) . ')';
     $sqlCount = 'SELECT COUNT(DISTINCT e.id)' . $sqlCommon;
     $sqlData = 'SELECT e.*, s.id AS subject_id, s.name AS subject_name' . $sqlCommon . ' GROUP BY e.id ORDER BY e.start DESC';
