@@ -3,9 +3,7 @@
 {% block title %}Home{% endblock %}
 
 {% block content %}
-<div class="hero-unit">
-    <h1>{{ sitename }}</h1>
-    <p>Let's Rock peoples !</p>
-    <a href="{{ url('calendars') }}" class="btn btn-primary">See calendars</a>
+<div class="container">
+    {% include 'search.form.twig' %}
 </div>
 {% endblock %}

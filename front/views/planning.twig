@@ -7,7 +7,7 @@
     <p class="lead">See <b>your</b> upcoming events</p>
     <dl>
     {% for event in events %}
-        <dt><strong>{{ event.name }}</strong> - <a href="{{ url('calendar', {id: event.subject_id}) }}">{{ event.subject_name }}{{ event.subject_alias is empty ? '' : ' (' ~ event.subject_alias ~ ')' }}</a></dt>
+        <dt><strong>{{ event.name|convert_encoding('UTF-8', 'ISO-8859-1') }}</strong> - <a href="{{ url('calendar', {id: event.subject_id}) }}">{{ event.subject_name }}{{ event.subject_alias is empty ? '' : ' (' ~ event.subject_alias ~ ')' }}</a></dt>
         <dd>
             <p>
                 {{ event.description }} <br />

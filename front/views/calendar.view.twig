@@ -7,7 +7,7 @@
     <p>{{ calendar.description }}</p>
     <dl>
     {% for event in events %}
-        <dt>{{ event.name }}</dt>
+        <dt>{{ event.name|convert_encoding('UTF-8', 'ISO-8859-1') }}</dt>
         <dd>
             <small>{{ event.start|date() }}{{ event.end is empty ? '' : ' to ' ~ event.end|date()  }}</small>
             <p>
