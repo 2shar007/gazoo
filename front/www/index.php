@@ -125,6 +125,10 @@ $user->post('/login', function (Request $request) use ($app) {
     return new Response(json_encode($return), 200, array('Content-Type' => 'application/json'));
 })->bind('login');
 
+$user->get('/login', function () use($app) {
+    return $app['twig']->render('login.form.twig');
+});
+
 $user->get('/logout', function () use ($app) {
     $app['session']->set('user', null);
     return $app->redirect($app['url_generator']->generate('home'));
@@ -145,8 +149,8 @@ $app->get('/planning', function () use($app) {
         INNER JOIN subject_event AS se ON e.id = se.id_event
         INNER JOIN subject AS s ON s.id = se.id_subject
         INNER JOIN user_subject AS us ON us.id_subject = se.id_subject
-        WHERE us.id_user = ?
-        ORDER BY e.start DESC';
+        WHERE us.id_user = ? AND DATEDIFF(e.start,CURDATE())>0 
+        ORDER BY e.start ASC';
     $events = $app['db']->fetchAll($sql, array($user['id']));
     return $app['twig']->render('planning.twig', array('events' => $events));
 })->bind('planning');
