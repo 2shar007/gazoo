@@ -168,7 +168,7 @@ $app->post('/search', function (Request $request) use ($app) {
     $cpt = 0;
     foreach (explode(' ', $search) as $part) {
         $tag = ':search' . $cpt;
-        $sqlCommonParts[] = "e.name LIKE $tag OR tevent.name LIKE $tag OR tevent.description LIKE $tag";
+        $sqlCommonParts[] = "e.name LIKE $tag OR tevent.name LIKE $tag OR tevent.description LIKE $tag OR s.name LIKE $tag OR s.description LIKE $tag";
         $params[$tag] = '%'.$part.'%';
         $cpt++;
     }
