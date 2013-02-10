@@ -102,15 +102,26 @@ body#foot, body#football {
     background-image: url('../img/fonds_foot.png');
 }
 
-/*
+.follow-button .btn {
+    height: 34px;
+    padding: 0;
+    border: 0;
+}
+
 .follow-button .btn.btn-primary {
+    width: 83px;
     background: transparent url('../img/follow.png') no-repeat;
 }
 
 .follow-button .btn.btn-success {
+    width: 99px;
+    background: transparent url('../img/following.png') no-repeat;
+}
+
+.follow-button .btn.btn-success:hover {
+    width: 95px;
     background: transparent url('../img/unfollow.png') no-repeat;
 }
-*/
 
 input[type=text]:focus,
 input[type=password]:focus

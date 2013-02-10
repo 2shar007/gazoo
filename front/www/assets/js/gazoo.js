@@ -46,7 +46,7 @@ var callback = {
         window.location.reload();
     },
     onfollow: function (resp) {
-        $('.follow-button[data-calendar-id="' + resp.id + '"]').html(resp.content);
+        $('.follow-button[data-calendar-id="' + resp.id + '"]').replaceWith(resp.content);
 		//alert('test');
 		$.get($('#baseUrl').val() + 'push/' + resp.id);
     },

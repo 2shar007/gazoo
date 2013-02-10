@@ -1,8 +1,8 @@
 {% set is_following = is_following|default(following is defined and following[id] is defined) %}
 <span class="follow-button" data-calendar-id="{{ id }}">
     {% if is_following %}
-    <a href="{{ url('calendar.action', {id: id, action: 'unfollow'}) }}" class="btn btn-success ajaxify" data-success="onunfollow">Unfollow</a>
+    <a href="{{ url('calendar.action', {id: id, action: 'unfollow'}) }}" class="btn btn-success ajaxify" data-success="onunfollow"></a>
     {% else %}
-    <a href="{{ url('calendar.action', {id: id, action: 'follow'}) }}" class="btn btn-primary ajaxify" data-success="onfollow">Follow</a>
+    <a href="{{ url('calendar.action', {id: id, action: 'follow'}) }}" class="btn btn-primary ajaxify" data-success="onfollow"></a>
     {% endif %}
 </span>
