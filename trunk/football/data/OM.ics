@@ -1,0 +1,473 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+PRODID:-//LFP//iCal 3.0//FR
+BEGIN:VEVENT
+DTSTART:20120802T184500Z
+SUMMARY:Eskisehirspor - Olympique de Marseille
+LOCATION:
+DESCRIPTION:C3 - 3ème tour de qualification - En direct sur Canal + Sport
+DTEND:20120802T204500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76763
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120809T184500Z
+SUMMARY:Olympique de Marseille - Eskisehirspor
+LOCATION:
+DESCRIPTION:C3 - 3ème tour de qualification - En direct sur Canal + Sport
+DTEND:20120809T204500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76792
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120812T190000Z
+SUMMARY:Stade de Reims - Olympique de Marseille
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur Canal +
+DTEND:20120812T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75924
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120819T150000Z
+SUMMARY:Olympique de Marseille - FC Sochaux-Montbéliard
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur beIN SPORT 2
+DTEND:20120819T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75936
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120823T170000Z
+SUMMARY:FC Sheriff Tiraspol - Olympique de Marseille
+LOCATION:
+DESCRIPTION:C3 - Tour de barrages - En direct sur Canal + Sport
+DTEND:20120823T190000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76847
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120826T150000Z
+SUMMARY:Montpellier Hérault SC - Olympique de Marseille
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur beIN SPORT 1
+DTEND:20120826T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75941
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120830T183000Z
+SUMMARY:Olympique de Marseille - FC Sheriff Tiraspol
+LOCATION:
+DESCRIPTION:C3 - Tour de barrages - En direct sur Canal + Sport
+DTEND:20120830T203000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76849
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120902T150000Z
+SUMMARY:Olympique de Marseille - Stade Rennais FC
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur beIN SPORT 1
+DTEND:20120902T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75957
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120916T190000Z
+SUMMARY:AS Nancy-Lorraine - Olympique de Marseille
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur Canal +
+DTEND:20120916T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75962
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120920T170000Z
+SUMMARY:Fenerbahce SK - Olympique de Marseille
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20120920T190000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77019
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120923T150000Z
+SUMMARY:Olympique de Marseille - Evian TG FC
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur beIN SPORT 1
+DTEND:20120923T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75975
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120930T120000Z
+SUMMARY:Valenciennes FC - Olympique de Marseille
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur beIN SPORT 1
+DTEND:20120930T140000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75989
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121004T190500Z
+SUMMARY:Olympique de Marseille - AEL Limassol FC
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121004T210500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77020
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121007T190000Z
+SUMMARY:Olympique de Marseille - Paris Saint-Germain
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur Canal +
+DTEND:20121007T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75994
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121021T190000Z
+SUMMARY:ESTAC Troyes - Olympique de Marseille
+LOCATION:Stade de l&#039;Aube
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur Canal +
+DTEND:20121021T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76008
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121025T190500Z
+SUMMARY:Borussia Monchengladbach - Olympique de Marseille
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121025T210500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77022
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121031T195500Z
+SUMMARY:Paris Saint-Germain - Olympique de Marseille
+LOCATION:Parc des Princes
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - En direct sur France 3
+DTEND:20121031T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77165
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121104T130000Z
+SUMMARY:AC Ajaccio - Olympique de Marseille
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121104T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76020
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121108T180000Z
+SUMMARY:Olympique de Marseille - Borussia Monchengladbach
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121108T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77024
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121111T130000Z
+SUMMARY:Olympique de Marseille - OGC Nice
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur beIN SPORT 1
+DTEND:20121111T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76033
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121118T200000Z
+SUMMARY:Girondins de Bordeaux - Olympique de Marseille
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur Canal +
+DTEND:20121118T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76041
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121122T200500Z
+SUMMARY:Olympique de Marseille - Fenerbahce SK
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121122T220500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121125T200000Z
+SUMMARY:Olympique de Marseille - LOSC Lille
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur Canal +
+DTEND:20121125T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76051
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121128T200000Z
+SUMMARY:Olympique de Marseille - Olympique Lyonnais
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur Canal +
+DTEND:20121128T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/77195
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121202T130000Z
+SUMMARY:Stade Brestois 29 - Olympique de Marseille
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121202T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76062
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121206T180000Z
+SUMMARY:AEL Limassol FC - Olympique de Marseille
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121206T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77028
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121209T160000Z
+SUMMARY:Olympique de Marseille - FC Lorient
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur beIN SPORT 1
+DTEND:20121209T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76070
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121212T200000Z
+SUMMARY:SC Bastia - Olympique de Marseille
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 1
+DTEND:20121212T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76081
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121215T160000Z
+SUMMARY:Toulouse FC - Olympique de Marseille
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur Canal +
+DTEND:20121215T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76098
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121223T200000Z
+SUMMARY:Olympique de Marseille - AS Saint-Etienne
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur Canal +
+DTEND:20121223T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76107
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130106T131500Z
+SUMMARY:Olympique de Marseille - EA Guingamp
+LOCATION:Stade Vélodrome
+DESCRIPTION:Cpe. FR - 1/32 de finale - 
+DTEND:20130106T151500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77358
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130113T200000Z
+SUMMARY:FC Sochaux-Montbéliard - Olympique de Marseille
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur Canal +
+DTEND:20130113T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76118
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130119T160000Z
+SUMMARY:Olympique de Marseille - Montpellier Hérault SC
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur Canal +
+DTEND:20130119T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76127
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130122T195500Z
+SUMMARY:FC Rouen 1899 - Olympique de Marseille
+LOCATION:STADE ROBERT DIOCHON
+DESCRIPTION:Cpe. FR - 1/16 de finale - En direct sur Eurosport
+DTEND:20130122T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77426
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130126T160000Z
+SUMMARY:Stade Rennais FC - Olympique de Marseille
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur Canal +
+DTEND:20130126T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76136
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130203T200000Z
+SUMMARY:Olympique de Marseille - AS Nancy-Lorraine
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur Canal +
+DTEND:20130203T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76146
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130210T130000Z
+SUMMARY:Evian TG FC - Olympique de Marseille
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130210T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76151
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130216T160000Z
+SUMMARY:Olympique de Marseille - Valenciennes FC
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur Canal +
+DTEND:20130216T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76165
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130224T200000Z
+SUMMARY:Paris Saint-Germain - Olympique de Marseille
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur Canal +
+DTEND:20130224T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76176
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130227T195500Z
+SUMMARY:Paris Saint-Germain - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Cpe. FR - 1/8 de finale - En direct sur France 3
+DTEND:20130227T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77455
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130303T160000Z
+SUMMARY:Olympique de Marseille - ESTAC Troyes
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130303T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76184
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:Olympique Lyonnais - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76194
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:Olympique de Marseille - AC Ajaccio
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76203
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:OGC Nice - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76215
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:Olympique de Marseille - Girondins de Bordeaux
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76222
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:LOSC Lille - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76234
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:Olympique de Marseille - Stade Brestois 29
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76241
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:FC Lorient - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76256
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:Olympique de Marseille - SC Bastia
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76260
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:Olympique de Marseille - Toulouse FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76278
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:AS Saint-Etienne - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76287
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:Olympique de Marseille - Stade de Reims
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76297
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

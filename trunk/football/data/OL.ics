@@ -1,0 +1,446 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+PRODID:-//LFP//iCal 3.0//FR
+BEGIN:VEVENT
+DTSTART:20120728T190000Z
+SUMMARY:Montpellier Hérault SC - Olympique Lyonnais
+LOCATION:RED BULL ARENA
+DESCRIPTION:Tr. Chp. - Finale - En direct sur Canal +
+DTEND:20120728T210000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76690
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120811T190000Z
+SUMMARY:Stade Rennais FC - Olympique Lyonnais
+LOCATION:Stade de la Route de Lorient
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur Canal + (Multiplex)
+DTEND:20120811T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75925
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120818T150000Z
+SUMMARY:Olympique Lyonnais - ESTAC Troyes
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur Canal +
+DTEND:20120818T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75935
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T184500Z
+SUMMARY:Evian TG FC - Olympique Lyonnais
+LOCATION:Parc des Sports d’Annecy
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur beIN SPORT 1
+DTEND:20120824T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75939
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120901T150000Z
+SUMMARY:Olympique Lyonnais - Valenciennes FC
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur Canal +
+DTEND:20120901T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75956
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120916T150000Z
+SUMMARY:Olympique Lyonnais - AC Ajaccio
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur beIN SPORT 1
+DTEND:20120916T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75961
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120920T190500Z
+SUMMARY:Olympique Lyonnais - AC Sparta Prague 
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20120920T210500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77042
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120923T190000Z
+SUMMARY:LOSC Lille - Olympique Lyonnais
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur Canal +
+DTEND:20120923T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75973
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120930T190000Z
+SUMMARY:Olympique Lyonnais - Girondins de Bordeaux
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur Canal +
+DTEND:20120930T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75982
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121004T170000Z
+SUMMARY:Hapoel Ironi Kiryat Shmona FC - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121004T190000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77044
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121007T150000Z
+SUMMARY:FC Lorient - Olympique Lyonnais
+LOCATION:Stade Yves Allainmat - Le Moustoir
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur beIN SPORT 1
+DTEND:20121007T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75993
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121021T150000Z
+SUMMARY:Olympique Lyonnais - Stade Brestois 29
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur beIN SPORT 1
+DTEND:20121021T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76003
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121025T170000Z
+SUMMARY:Olympique Lyonnais - Athletic Club Bilbao
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121025T190000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77047
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121031T160000Z
+SUMMARY:OGC Nice - Olympique Lyonnais
+LOCATION:Stade du Ray
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - En direct sur France 2
+DTEND:20121031T180000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77170
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121104T160000Z
+SUMMARY:Olympique Lyonnais - SC Bastia
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur beIN SPORT 1
+DTEND:20121104T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76024
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121108T200500Z
+SUMMARY:Athletic Club Bilbao - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121108T220500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77050
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121111T160000Z
+SUMMARY:FC Sochaux-Montbéliard - Olympique Lyonnais
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur beIN SPORT 1
+DTEND:20121111T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76038
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121118T130000Z
+SUMMARY:Olympique Lyonnais - Stade de Reims
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur beIN SPORT 1
+DTEND:20121118T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76045
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121122T180000Z
+SUMMARY:AC Sparta Prague  - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121122T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77051
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121125T160000Z
+SUMMARY:Toulouse FC - Olympique Lyonnais
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur beIN SPORT 1
+DTEND:20121125T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76059
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121128T200000Z
+SUMMARY:Olympique de Marseille - Olympique Lyonnais
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur Canal +
+DTEND:20121128T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/77195
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T160000Z
+SUMMARY:Olympique Lyonnais - Montpellier Hérault SC
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur Canal +
+DTEND:20121201T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76066
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121206T200500Z
+SUMMARY:Olympique Lyonnais - Hapoel Ironi Kiryat Shmona FC
+LOCATION:
+DESCRIPTION:C3 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121206T220500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77053
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121209T200000Z
+SUMMARY:AS Saint-Etienne - Olympique Lyonnais
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur Canal +
+DTEND:20121209T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76076
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121212T180000Z
+SUMMARY:Olympique Lyonnais - AS Nancy-Lorraine
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 1
+DTEND:20121212T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76087
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121216T200000Z
+SUMMARY:Paris Saint-Germain - Olympique Lyonnais
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur Canal +
+DTEND:20121216T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76093
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121222T190000Z
+SUMMARY:Olympique Lyonnais - OGC Nice
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121222T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76106
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130106T131500Z
+SUMMARY:SA Epinal - Olympique Lyonnais
+LOCATION:Stade Félix Bollaert-Delelis
+DESCRIPTION:Cpe. FR - 1/32 de finale - 
+DTEND:20130106T151500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77368
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130112T160000Z
+SUMMARY:ESTAC Troyes - Olympique Lyonnais
+LOCATION:Stade de l&#039;Aube
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur Canal +
+DTEND:20130112T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76119
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130118T193000Z
+SUMMARY:Olympique Lyonnais - Evian TG FC
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur beIN SPORT 1
+DTEND:20130118T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76126
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130125T193000Z
+SUMMARY:Valenciennes FC - Olympique Lyonnais
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur beIN SPORT 1
+DTEND:20130125T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76139
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130203T130000Z
+SUMMARY:AC Ajaccio - Olympique Lyonnais
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130203T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130210T200000Z
+SUMMARY:Olympique Lyonnais - LOSC Lille
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur Canal +
+DTEND:20130210T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76152
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130214T200500Z
+SUMMARY:Tottenham Hotspur FC - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:C3 - 1/16 de finale - En direct sur W9
+DTEND:20130214T220500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77403
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130217T130000Z
+SUMMARY:Girondins de Bordeaux - Olympique Lyonnais
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur beIN SPORT 1
+DTEND:20130217T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76161
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130221T180000Z
+SUMMARY:Olympique Lyonnais - Tottenham Hotspur FC
+LOCATION:
+DESCRIPTION:C3 - 1/16 de finale - En direct sur beIN SPORT 1
+DTEND:20130221T200000Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77419
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130224T130000Z
+SUMMARY:Olympique Lyonnais - FC Lorient
+LOCATION:Stade Municipal de Gerland
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur beIN SPORT 1
+DTEND:20130224T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76173
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130303T130000Z
+SUMMARY:Stade Brestois 29 - Olympique Lyonnais
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur beIN SPORT 1
+DTEND:20130303T150000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76181
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:Olympique Lyonnais - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76194
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:SC Bastia - Olympique Lyonnais
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76200
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:Olympique Lyonnais - FC Sochaux-Montbéliard
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76214
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:Stade de Reims - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76225
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:Olympique Lyonnais - Toulouse FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76236
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:Montpellier Hérault SC - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76242
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:Olympique Lyonnais - AS Saint-Etienne
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76257
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:AS Nancy-Lorraine - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76262
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:Olympique Lyonnais - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76277
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:OGC Nice - Olympique Lyonnais
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76283
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:Olympique Lyonnais - Stade Rennais FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76296
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

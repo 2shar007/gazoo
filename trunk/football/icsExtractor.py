@@ -20,7 +20,7 @@ def icsExtractor(calendarFilePath, subjectTitle, subjectDescription, dateFormat)
   isSecondEnd = False
 
   dropSubjectRequest = "DELETE FROM subject WHERE name='" + subjectTitle + "';"
-  insertSubjectRequest = "INSERT INTO subject(name, description) values ('" + subjectTitle + "','" + subjectDescription + "');"
+  insertSubjectRequest = "INSERT INTO subject(name, description, category) values ('" + subjectTitle + "','" + subjectDescription + "', 'Football');"
 
   cursor.execute(dropSubjectRequest)
   cursor.execute(insertSubjectRequest)

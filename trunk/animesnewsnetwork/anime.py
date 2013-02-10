@@ -18,7 +18,7 @@ class Anime():
   def insert(self, connexion):
 
     isThereRequest = "SELECT COUNT(*) FROM subject WHERE name='" + self.title + "';"
-    insertAnime = "INSERT INTO subject(name, description) values ('" + self.title.replace("\u2019"," ").replace("'"," ") + "','" + self.description.replace("\u2019", " ").replace("'"," ") + "');"
+    insertAnime = "INSERT INTO subject(name, description, category) values ('" + self.title.replace("\u2019"," ").replace("'"," ") + "','" + self.description.replace("\u2019", " ").replace("'"," ") + "', 'Anime');"
     
     if (len(self.events)>0 and self.title!=""):
       cursor = connexion.cursor()

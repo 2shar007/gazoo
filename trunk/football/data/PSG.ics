@@ -1,0 +1,464 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+PRODID:-//LFP//iCal 3.0//FR
+BEGIN:VEVENT
+DTSTART:20120811T190000Z
+SUMMARY:Paris Saint-Germain - FC Lorient
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 1ère journée - En direct sur beIN SPORT 2
+DTEND:20120811T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75923
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120819T190000Z
+SUMMARY:AC Ajaccio - Paris Saint-Germain
+LOCATION:Stade François Coty
+DESCRIPTION:Ligue 1 - 2ème journée - En direct sur Canal +
+DTEND:20120819T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75929
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120826T190000Z
+SUMMARY:Paris Saint-Germain - Girondins de Bordeaux
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 3ème journée - En direct sur Canal +
+DTEND:20120826T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75944
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120902T190000Z
+SUMMARY:LOSC Lille - Paris Saint-Germain
+LOCATION:GRAND STADE LILLE METROPOLE
+DESCRIPTION:Ligue 1 - 4ème journée - En direct sur Canal +
+DTEND:20120902T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75954
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120914T184500Z
+SUMMARY:Paris Saint-Germain - Toulouse FC
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 5ème journée - En direct sur beIN SPORT 1
+DTEND:20120914T204500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75964
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120918T184500Z
+SUMMARY:Paris Saint-Germain - FC Dynamo Kyiv
+LOCATION:
+DESCRIPTION:C1 - Phase de groupes - En direct sur Canal +
+DTEND:20120918T204500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76922
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120922T150000Z
+SUMMARY:SC Bastia - Paris Saint-Germain
+LOCATION:Stade Armand Cesari
+DESCRIPTION:Ligue 1 - 6ème journée - En direct sur Canal +
+DTEND:20120922T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75970
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120929T153000Z
+SUMMARY:Paris Saint-Germain - FC Sochaux-Montbéliard
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 7ème journée - En direct sur Canal +
+DTEND:20120929T173000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75985
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121003T184500Z
+SUMMARY:FC Porto - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:C1 - Phase de groupes - En direct sur Canal +
+DTEND:20121003T204500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76924
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121007T190000Z
+SUMMARY:Olympique de Marseille - Paris Saint-Germain
+LOCATION:Stade Vélodrome
+DESCRIPTION:Ligue 1 - 8ème journée - En direct sur Canal +
+DTEND:20121007T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/75994
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121020T150000Z
+SUMMARY:Paris Saint-Germain - Stade de Reims
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 9ème journée - En direct sur Canal +
+DTEND:20121020T170000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76006
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121024T184500Z
+SUMMARY:NK Dinamo Zagreb - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:C1 - Phase de groupes - En direct sur beIN SPORT 1
+DTEND:20121024T204500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76926
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121027T180000Z
+SUMMARY:AS Nancy-Lorraine - Paris Saint-Germain
+LOCATION:Stade Marcel Picot
+DESCRIPTION:Ligue 1 - 10ème journée - En direct sur beIN SPORT 1
+DTEND:20121027T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76015
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121031T195500Z
+SUMMARY:Paris Saint-Germain - Olympique de Marseille
+LOCATION:Parc des Princes
+DESCRIPTION:Cpe. Lig. - 1/8 de finale - En direct sur France 3
+DTEND:20121031T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77165
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121103T160000Z
+SUMMARY:Paris Saint-Germain - AS Saint-Etienne
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 11ème journée - En direct sur Canal +
+DTEND:20121103T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121106T194500Z
+SUMMARY:Paris Saint-Germain - NK Dinamo Zagreb
+LOCATION:
+DESCRIPTION:C1 - Phase de groupes - En direct sur Canal +
+DTEND:20121106T214500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76928
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121111T200000Z
+SUMMARY:Montpellier Hérault SC - Paris Saint-Germain
+LOCATION:Stade de la Mosson et du Mondial 98
+DESCRIPTION:Ligue 1 - 12ème journée - En direct sur Canal +
+DTEND:20121111T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76034
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121117T160000Z
+SUMMARY:Paris Saint-Germain - Stade Rennais FC
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 13ème journée - En direct sur Canal +
+DTEND:20121117T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76047
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121121T194500Z
+SUMMARY:FC Dynamo Kyiv - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:C1 - Phase de groupes - En direct sur Canal +
+DTEND:20121121T214500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76930
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121124T160000Z
+SUMMARY:Paris Saint-Germain - ESTAC Troyes
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 14ème journée - En direct sur Canal +
+DTEND:20121124T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76054
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121127T195500Z
+SUMMARY:AS Saint-Etienne - Paris Saint-Germain
+LOCATION:Stade Geoffroy-Guichard
+DESCRIPTION:Cpe. Lig. - 1/4 de finale - En direct sur France 3
+DTEND:20121127T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77193
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121201T190000Z
+SUMMARY:OGC Nice - Paris Saint-Germain
+LOCATION:Stade du Ray
+DESCRIPTION:Ligue 1 - 15ème journée - En direct sur beIN SPORT 1
+DTEND:20121201T210000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76067
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121204T194500Z
+SUMMARY:Paris Saint-Germain - FC Porto
+LOCATION:
+DESCRIPTION:C1 - Phase de groupes - En direct sur Canal +
+DTEND:20121204T214500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/76932
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121208T160000Z
+SUMMARY:Paris Saint-Germain - Evian TG FC
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 16ème journée - En direct sur Canal +
+DTEND:20121208T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76073
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121211T180000Z
+SUMMARY:Valenciennes FC - Paris Saint-Germain
+LOCATION:Stade du Hainaut
+DESCRIPTION:Ligue 1 - 17ème journée - En direct sur beIN SPORT 1
+DTEND:20121211T200000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76089
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121216T200000Z
+SUMMARY:Paris Saint-Germain - Olympique Lyonnais
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 18ème journée - En direct sur Canal +
+DTEND:20121216T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76093
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121221T194500Z
+SUMMARY:Stade Brestois 29 - Paris Saint-Germain
+LOCATION:Stade Francis-Le Blé
+DESCRIPTION:Ligue 1 - 19ème journée - En direct sur beIN SPORT 1
+DTEND:20121221T214500Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76103
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130106T194500Z
+SUMMARY:Arras - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Cpe. FR - 1/32 de finale - 
+DTEND:20130106T214500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77364
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130111T200000Z
+SUMMARY:Paris Saint-Germain - AC Ajaccio
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 20ème journée - En direct sur beIN SPORT 1
+DTEND:20130111T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76114
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130120T200000Z
+SUMMARY:Girondins de Bordeaux - Paris Saint-Germain
+LOCATION:Stade Chaban-Delmas
+DESCRIPTION:Ligue 1 - 21ème journée - En direct sur Canal +
+DTEND:20130120T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76122
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130123T195500Z
+SUMMARY:Paris Saint-Germain - Toulouse FC
+LOCATION:Parc des Princes
+DESCRIPTION:Cpe. FR - 1/16 de finale - En direct sur France 3
+DTEND:20130123T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77435
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130127T200000Z
+SUMMARY:Paris Saint-Germain - LOSC Lille
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 22ème journée - En direct sur Canal +
+DTEND:20130127T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76134
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130201T193000Z
+SUMMARY:Toulouse FC - Paris Saint-Germain
+LOCATION:Stadium
+DESCRIPTION:Ligue 1 - 23ème journée - En direct sur beIN SPORT 1
+DTEND:20130201T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76149
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130208T193000Z
+SUMMARY:Paris Saint-Germain - SC Bastia
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 24ème journée - En direct sur beIN SPORT 1
+DTEND:20130208T213000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76155
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130212T194500Z
+SUMMARY:Valencia CF - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:C1 - 1/8 de finale - En direct sur Canal +
+DTEND:20130212T214500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77373
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130217T200000Z
+SUMMARY:FC Sochaux-Montbéliard - Paris Saint-Germain
+LOCATION:Stade Bonal
+DESCRIPTION:Ligue 1 - 25ème journée - En direct sur Canal +
+DTEND:20130217T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76168
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130224T200000Z
+SUMMARY:Paris Saint-Germain - Olympique de Marseille
+LOCATION:Parc des Princes
+DESCRIPTION:Ligue 1 - 26ème journée - En direct sur Canal +
+DTEND:20130224T220000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76176
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130227T195500Z
+SUMMARY:Paris Saint-Germain - Olympique de Marseille
+LOCATION:
+DESCRIPTION:Cpe. FR - 1/8 de finale - En direct sur France 3
+DTEND:20130227T215500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77455
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130302T160000Z
+SUMMARY:Stade de Reims - Paris Saint-Germain
+LOCATION:Stade Auguste Delaune
+DESCRIPTION:Ligue 1 - 27ème journée - En direct sur Canal +
+DTEND:20130302T180000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76186
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130306T194500Z
+SUMMARY:Paris Saint-Germain - Valencia CF
+LOCATION:
+DESCRIPTION:C1 - 1/8 de finale - En direct sur Canal +
+DTEND:20130306T214500Z
+URL:http://www.lfp.fr/ligue2/feuille_match/77382
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130308T230000Z
+SUMMARY:Paris Saint-Germain - AS Nancy-Lorraine
+LOCATION:
+DESCRIPTION:Ligue 1 - 28ème journée - 
+DTEND:20130309T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76196
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130315T230000Z
+SUMMARY:AS Saint-Etienne - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 29ème journée - 
+DTEND:20130316T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76207
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130329T230000Z
+SUMMARY:Paris Saint-Germain - Montpellier Hérault SC
+LOCATION:
+DESCRIPTION:Ligue 1 - 30ème journée - 
+DTEND:20130330T010000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76216
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130405T220000Z
+SUMMARY:Stade Rennais FC - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 31ème journée - 
+DTEND:20130406T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76226
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130412T220000Z
+SUMMARY:ESTAC Troyes - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 32ème journée - 
+DTEND:20130413T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76238
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130420T220000Z
+SUMMARY:Paris Saint-Germain - OGC Nice
+LOCATION:
+DESCRIPTION:Ligue 1 - 33ème journée - 
+DTEND:20130421T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76244
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130426T220000Z
+SUMMARY:Evian TG FC - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 34ème journée - 
+DTEND:20130427T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76254
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130503T220000Z
+SUMMARY:Paris Saint-Germain - Valenciennes FC
+LOCATION:
+DESCRIPTION:Ligue 1 - 35ème journée - 
+DTEND:20130504T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76263
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130510T220000Z
+SUMMARY:Olympique Lyonnais - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 36ème journée - 
+DTEND:20130511T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76277
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130517T220000Z
+SUMMARY:Paris Saint-Germain - Stade Brestois 29
+LOCATION:
+DESCRIPTION:Ligue 1 - 37ème journée - 
+DTEND:20130518T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76284
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130525T220000Z
+SUMMARY:FC Lorient - Paris Saint-Germain
+LOCATION:
+DESCRIPTION:Ligue 1 - 38ème journée - 
+DTEND:20130526T000000Z
+URL:http://www.lfp.fr/ligue1/feuille_match/76295
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
