@@ -1,10 +1,12 @@
 <?php
 
+set_include_path(implode(';' , array_merge(array(__DIR__ . '/../vendor/'), explode(':', get_include_path()))));
+
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 date_default_timezone_set('Europe/Berlin');
 
-require_once __DIR__ . '/../vendor/autoload.php';
+$loader = require_once __DIR__ . '/../vendor/autoload.php';
 
 $app = new Silex\Application();
 
@@ -78,7 +80,127 @@ $calendar->get('/{id}', function ($id) use ($app) {
     return $app['twig']->render('calendar.view.twig', array('calendar' => $calendar, 'events' => $events));
 })->bind('calendar');
 
-$calendar->get('/{id}/{action}', function ($id, $action) use ($app) {
+function getAuthSubUrl()
+{
+  //var_dump($_SERVER);
+  $next = 'http://' . $_SERVER["HTTP_HOST"] . $_SERVER["REDIRECT_URL"];
+  $scope = 'https://www.google.com/calendar/feeds/';
+  $secure = false;
+  $session = true;
+  return Zend_Gdata_AuthSub::getAuthSubTokenUri($next, $scope, $secure,
+      $session);
+}
+$authSubUrl = getAuthSubUrl();
+
+$client = null;
+
+if (!$app['session']->get('SESSIONTOKEN'))
+{
+	if (ISSET($_GET['token']))
+	{
+		$app['session']->set('SESSIONTOKEN', Zend_Gdata_AuthSub::getAuthSubSessionToken($_GET['token']));
+		$client = Zend_Gdata_AuthSub::getHttpClient($app['session']->get('SESSIONTOKEN'));
+		//outputCalendarList($client);
+	}
+	else
+	{
+		echo "<a href=\"$authSubUrl\">login to your Google account</a>";
+	}
+}
+else
+{
+	 $client = Zend_Gdata_AuthSub::getHttpClient($app['session']->get('SESSIONTOKEN'));
+	 //outputCalendarList($client);
+}
+
+function outputCalendarList($client)
+{
+  $gdataCal = new Zend_Gdata_Calendar($client);
+  $calFeed = $gdataCal->getCalendarListFeed();
+  echo '<h1>' . $calFeed->title->text . '</h1>';
+  echo '<ul>';
+  foreach ($calFeed as $calendar) {
+    echo '<li>' . $calendar->title->text . '</li>';
+  }
+  echo '</ul>';
+} 
+
+function createEvent ($client, $title = 'Tennis with Beth',
+    $desc='Meet for a quick lesson', $where = 'On the courts',
+    $startDate = '2008-01-20', $startTime = '10:00',
+    $endDate = '2008-01-20', $endTime = '11:00', $tzOffset = '+01')
+{
+  $gdataCal = new Zend_Gdata_Calendar($client);
+  $newEvent = $gdataCal->newEventEntry();
+
+  $newEvent->title = $gdataCal->newTitle($title);
+  $newEvent->where = array($gdataCal->newWhere($where));
+  $newEvent->content = $gdataCal->newContent("$desc");
+
+  $when = $gdataCal->newWhen();
+  $when->startTime = "{$startDate}T{$startTime}.000{$tzOffset}:00";
+  $when->endTime = "{$endDate}T{$endTime}.000{$tzOffset}:00";
+  $newEvent->when = array($when);
+
+  // Upload the event to the calendar server
+  // A copy of the event as it is recorded on the server is returned
+  $createdEvent = $gdataCal->insertEvent($newEvent);
+  return $createdEvent->id->text;
+}
+
+function outputCalendarByFullTextQuery($client, $fullTextQuery, $startDate)
+{
+  $gdataCal = new Zend_Gdata_Calendar($client);
+  $query = $gdataCal->newEventQuery();
+  $query->setUser('default');
+  $query->setVisibility('private');
+  $query->setProjection('full');
+  $query->setOrderby('starttime');
+  $query->setStartMin($startDate);
+  $query->setQuery($fullTextQuery);
+  $eventFeed = $gdataCal->getCalendarEventFeed($query);
+  
+  return $eventFeed;
+}
+
+function CreateCalendar($client)
+{
+//Standard creation of the HTTP client
+ $gdataCal = new Zend_Gdata_Calendar($client);
+
+ //Get list of existing calendars
+ $calFeed = $gdataCal->getCalendarListFeed();
+
+ //Set this to true by default, only gets set to false if calendar is found
+ $noAppCal = true;
+
+ //Loop through calendars and check name which is ->title->text
+ foreach ($calFeed as $calendar) {
+  if($calendar -> title -> text == "App Calendar") {
+   $noAppCal = false;
+  }
+ }
+
+ //If name not found, create the calendar
+ if($noAppCal) {
+
+  // I actually had to guess this method based on Google API's "magic" factory
+  $appCal = $gdataCal -> newListEntry();
+  // I only set the title, other options like color are available.
+  $appCal -> title = $gdataCal-> newTitle("App Calendar"); 
+
+  //This is the right URL to post to for new calendars...
+  //Notice that the user's info is nowhere in there
+  $own_cal = "http://www.google.com/calendar/feeds/default/owncalendars/full";
+
+  //And here's the payoff. 
+  //Use the insertEvent method, set the second optional var to the right URL
+  $gdataCal->insertEvent($appCal, $own_cal);
+ }
+ }
+
+$calendar->get('/{id}/{action}', function ($id, $action) use ($app)
+{
     $errno = 1;
     $user = $app['session']->get('user');
     $extraData = array();
@@ -90,13 +212,14 @@ $calendar->get('/{id}/{action}', function ($id, $action) use ($app) {
             $content = $app['twig']->render('follow.button.twig', array('id' => $id, 'is_following' => true));
             $extraData = array('id' => $id);
         }
-    } else if ($action == 'unfollow') {
+    } else if ($action == 'unfollow')
+	{
         if ($id && $user) {
             $errno = !$app['db']->executeUpdate('DELETE FROM user_subject  WHERE id_user = ? AND id_subject = ?', array((int)$user['id'], (int)$id));
             $content = $app['twig']->render('follow.button.twig', array('id' => $id, 'is_following' => false));
             $extraData = array('id' => $id);
         }
-    }
+	}
     return new Response(json_encode($return = array('errno' => $errno, 'content' => $content) + $extraData), 200, array('Content-Type' => 'application/json'));
 })->bind('calendar.action');
 
@@ -150,5 +273,63 @@ $app->get('/planning', function () use($app) {
     $events = $app['db']->fetchAll($sql, array($user['id']));
     return $app['twig']->render('planning.twig', array('events' => $events));
 })->bind('planning');
+
+$app->get('/push/{id}', function ($id) use ($app)
+{
+	$client = Zend_Gdata_AuthSub::getHttpClient($app['session']->get('SESSIONTOKEN'));
+	
+	if ($client != null)
+		{
+			//CreateCalendar($client);
+			$events = $app['db']->fetchAll('SELECT name, start, end, description FROM event e
+											JOIN subject_event se on e.id = se.id_event
+											WHERE se.id_subject = ?', array((int)$id));
+			foreach ($events as $r)
+			{
+				$start = explode(" ", $r['start']);
+				$end = $start;
+				if ($r['end'] != null && $r['end'] != '0000-00-00 00:00:00')
+				{
+					$end = explode(" ", $r['end']);
+				}
+				
+				createEvent($client
+							, $r['name']
+							, $r['description']
+							, 'here'
+							, $start[0]
+							, $start[1]
+							, $end[0]
+							, $end[1]);
+			}
+		}
+		$ret = null;
+	return new Response(json_encode($ret), 200, array('Content-Type' => 'application/json'));;
+});
+
+$app->get('/unpush/{id}', function ($id) use ($app)
+{
+	$client = Zend_Gdata_AuthSub::getHttpClient($app['session']->get('SESSIONTOKEN'));
+	
+	if ($client != null)
+		{
+			$events = $app['db']->fetchAll('SELECT name, start, end, description FROM event e
+											JOIN subject_event se on e.id = se.id_event
+											WHERE se.id_subject = ?', array((int)$id));
+			foreach ($events as $r)
+			{
+				$start = explode(" ", $r['start']);
+				$eventfeed = outputCalendarByFullTextQuery($client
+							, $r['name']
+							, $start[0]);
+				foreach($eventfeed as $ev)
+				{
+					$ev->delete();
+				}
+			}
+		}
+		$ret = null;
+	return new Response(json_encode($ret), 200, array('Content-Type' => 'application/json'));;
+});
 
 $app->run();
