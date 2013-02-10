@@ -155,8 +155,11 @@ $app->get('/planning', function () use($app) {
  * Search
  */
 $app->post('/search', function (Request $request) use ($app) {
-    $search = $request->get('q');
-    $sqlCommon = '
+    return $app->redirect($app['url_generator']->generate('search', array('q' => $request->get('q'))));
+})->bind('search.post');
+
+$app->get('/search/{q}', function ($q) use ($app) {
+   $sqlCommon = '
         FROM event AS e
         LEFT JOIN event_tag AS et ON et.id_event = e.id
         LEFT JOIN tag AS tevent ON tevent.id = et.id_tag
@@ -166,21 +169,21 @@ $app->post('/search', function (Request $request) use ($app) {
 
     $params = array();
     $cpt = 0;
-    foreach (explode(' ', $search) as $part) {
+    foreach (explode(' ', $q) as $part) {
         $tag = ':search' . $cpt;
         $sqlCommonParts[] = "e.name LIKE $tag OR tevent.name LIKE $tag OR tevent.description LIKE $tag OR s.name LIKE $tag OR s.description LIKE $tag OR s.category LIKE $tag";
-        $params[$tag] = '%'.$part.'%';
+        $params[$tag] = '%'.str_replace(array('%', '_'), array('\%', '\_'), $part).'%';
         $cpt++;
     }
     $dateFilter = "DATEDIFF( `start` , CURDATE( ) ) >0 AND ";
     $sqlCommon .= $dateFilter;
     $sqlCommon .= '(' . implode(') AND (', $sqlCommonParts) . ')';
-    $sqlCount = 'SELECT COUNT(DISTINCT e.id)' . $sqlCommon;
-    $sqlData = 'SELECT e.*, s.id AS subject_id, s.name AS subject_name, s.category AS subject_category' . $sqlCommon . ' GROUP BY e.id ORDER BY e.start ASC';
+    $sqlCount = 'SELECT COUNT(DISTINCT s.id)' . $sqlCommon;
+    $sqlData = 'SELECT e.*, s.id AS subject_id, s.name AS subject_name, s.description AS subject_description, s.category AS subject_category' . $sqlCommon . ' GROUP BY s.id ORDER BY e.start ASC';
 
     $total_result = $app['db']->fetchColumn($sqlCount, $params);
-    $events = $app['db']->fetchAll($sqlData, $params);
-    return $app['twig']->render('search.twig', array('events' => $events, 'total_result' => $total_result, 'search_query' => $search));
+    $calendars = $app['db']->fetchAll($sqlData, $params);
+    return $app['twig']->render('search.twig', array('calendars' => $calendars, 'total_result' => $total_result, 'search_query' => $q));
 })->bind('search');
 
 $app->run();

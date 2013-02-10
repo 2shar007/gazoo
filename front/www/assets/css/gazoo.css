@@ -1,0 +1,122 @@
+body {
+    padding-top: 50px;
+    background: green url('../img/home-bg.png') no-repeat center top;
+}
+
+.main-container {
+    position: relative;
+    margin-top: 70px;
+}
+
+#home .home-calendar {
+    position: absolute;
+    top: -38px;
+    left: -115px;
+    width: 274px;
+    height: 257px;
+    background: transparent url('../img/home-calendar2.png') no-repeat;
+}
+
+#home .home-step {
+    width: 509px;
+    height: 231px;
+    margin: 57px auto 0;
+    background: transparent url('../img/home-step.png') no-repeat;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 252px;
+    height: 83px;
+    background: transparent url('../img/kalendy.png') no-repeat;
+}
+
+.baseline {
+    margin: 0 auto;
+    width: 537px;
+    height: 23px;
+    margin-top: 20px;
+    background: transparent url('../img/plan-and-discover.png') no-repeat;
+}
+
+.form-search {
+    margin: 0 auto;
+    width: 497px;
+    height: 67px;
+}
+
+.form-search .input-prepend .btn {
+    border: 0;
+    width: 67px;
+    height: 67px;
+    background: white url('../img/search.png') no-repeat 50% 50%;
+    -webkit-border-radius: 33px 0 0 33px;
+    -moz-border-radius: 33px 0 0 33px;
+    border-radius: 33px 0 0 33px;
+}
+.form-search .input-prepend .search-query {
+    border: 0;
+    outline: none;
+    width: 411px;
+    height: 47px;
+    padding: 10px;
+    font-size: 20px;
+    line-height: 24px;
+    color: red;
+    -webkit-border-radius: 0 33px 33px 0;
+    -moz-border-radius: 0 33px 33px 0;
+    border-radius: 0 33px 33px 0;
+}
+
+.results-count {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px auto 0 auto;
+}
+
+.results-count b {
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+.results-listing {
+    margin-top: 75px;
+}
+
+.results-listing-row {
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+body#entrepreneur, body#entrepreneurs {
+    background-color: #759fe4;
+    background-image: url('../img/fonds_entrepreneur.png');
+}
+
+body#foot, body#football {
+    background-color: #92e376;
+    background-image: url('../img/fonds_foot.png');
+}
+
+/*
+.follow-button .btn.btn-primary {
+    background: transparent url('../img/follow.png') no-repeat;
+}
+
+.follow-button .btn.btn-success {
+    background: transparent url('../img/unfollow.png') no-repeat;
+}
+*/
+
+input[type=text]:focus,
+input[type=password]:focus
+{
+    outline: 0 none !important;
+    border: 0 !important;
+    box-shadow: 0 0 0px !important;
+    -webkit-box-shadow: 0 !important;
+}

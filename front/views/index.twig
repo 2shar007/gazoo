@@ -2,8 +2,10 @@
 
 {% block title %}Home{% endblock %}
 
+{% block body_id %}home{% endblock %}
+
 {% block content %}
-<div class="container">
+    <div class="home-calendar"></div>
     {% include 'search.form.twig' %}
-</div>
+    <div class="home-step"></div>
 {% endblock %}
