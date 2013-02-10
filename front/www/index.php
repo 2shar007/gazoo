@@ -125,6 +125,10 @@ $user->post('/login', function (Request $request) use ($app) {
     return new Response(json_encode($return), 200, array('Content-Type' => 'application/json'));
 })->bind('login');
 
+$user->get('/login', function () use($app) {
+    return $app['twig']->render('login.form.twig');
+});
+
 $user->get('/logout', function () use ($app) {
     $app['session']->set('user', null);
     return $app->redirect($app['url_generator']->generate('home'));
