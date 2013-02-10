@@ -65,7 +65,7 @@ $app->get('/', function() use ($app)
  */
 $calendar = $app['controllers_factory'];
 $calendar->get('/', function () use ($app) {
-    $calendars = $app['db']->fetchAll('SELECT * FROM subject');
+    $calendars = $app['db']->fetchAll('SELECT * FROM subject ORDER BY category ASC');
     return $app['twig']->render('calendar.index.twig', array('calendars' => $calendars));
 })->bind('calendars');
 
