@@ -10,11 +10,18 @@ body {
 
 #home .home-calendar {
     position: absolute;
-    top: -55px;
-    left: -30px;
-    width: 428px;
+    top: -38px;
+    left: -115px;
+    width: 274px;
     height: 257px;
-    background: transparent url('../img/home-calendar.png') no-repeat;
+    background: transparent url('../img/home-calendar2.png') no-repeat;
+}
+
+#home .home-step {
+    width: 509px;
+    height: 231px;
+    margin: 57px auto 0;
+    background: transparent url('../img/home-step.png') no-repeat;
 }
 
 .logo {
