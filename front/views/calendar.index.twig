@@ -8,7 +8,7 @@
     <dl>
     {% for calendar in calendars %}
             <dt>
-                <a href="{{ url('calendar', {id: calendar.id}) }}">{{ calendar.name }}{{ calendar.alias is empty ? '' : ' (' ~ calendar.alias ~ ')' }}</a>
+                <strong>{{calendar.category}}</strong> - <a href="{{ url('calendar', {id: calendar.id}) }}">{{ calendar.name }}{{ calendar.alias is empty ? '' : ' (' ~ calendar.alias ~ ')' }}</a>
             </dt>
             <dd>{{ calendar.description }}</dd>
     {% else %}
