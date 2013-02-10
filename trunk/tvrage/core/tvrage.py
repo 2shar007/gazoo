@@ -8,21 +8,24 @@
 
 import sys
 import MySQLdb
-import datetime
+from datetime import datetime
 import urllib, urllib2
-from random import randint
 from BeautifulSoup import BeautifulSoup
 
 def parse_content(raw_content):
-	""""""
-	values = None
+	values = dict()
 	try:
 		parsed_vals = BeautifulSoup(raw_content)
-		name = parsed_vals.findAll("name")
-		genre = parsed_vals.findAll("genre")
-		print name + ": " + genre
+		if parsed_vals.find("status").contents[0] is "Canceled/Ended":
+			values  = None
+		else:
+			values['name'] = parsed_vals.find("name")
+			values['genre'] = parsed_vals.findAll("genre")
+			values['airtime'] = parsed_vals.find("airtime")
+			values['airdate'] = parsed_vals.findAll("airdate")
 	except:
 		print "Couldn't parse content :-('"
+		pass
 	return values
 
 def get_html(URL):
@@ -35,7 +38,7 @@ def get_html(URL):
 		URLdata.close()								#	terminate connection
 	except:
 		print "Oops!! Couldn't retrieve content"
-		sys.exit(1)
+		pass
 	return content
 
 def main(showID):
@@ -44,23 +47,61 @@ def main(showID):
 	values = { 'sid' : showID }
 	service_api = api + "?" + urllib.urlencode(values)
 	info = get_html(service_api)
-	record = parse_content(info)
+	if info is not None:
+		record = parse_content(info)
 	return record
 
 # calling main for execution
 try:
-	#conn = MySQLdb.connect()
-	#cursor = conn.cursor(MySQLdb.cursors.DictCursors)
+	conn = MySQLdb.connect()
+	cursor = conn.cursor(MySQLdb.cursors.DictCursor)
 	#do stuff here
-	try:
-		#for loop here
-		sid = randint(1,3000)
-		tuple = main(str(sid))
-	except:
-		print "Main gone rogue ... Exiting!!"
-	#cursor.close()
-	#conn.commit()
-	#conn.close()
+	row = None
+	now_stamp = int(datetime.now().strftime("%s"))
+	for sid in range(34500, 25000, -1):
+		name = ""
+		genre = ""
+		time = ""
+		date = ""
+		ready = False
+		try:
+			row = main(str(sid))
+			if row is not None:
+				name = row['name'].contents[0]
+				time = row['airtime'].contents[0]
+				for val in row['genre']:
+					genre = (val.contents[0] + "," + genre)
+				for d in row['airdate']:
+					t = None
+					time_stamp = None
+					try:
+						t = (d.contents[0] + " " + time)
+						time_stamp = int(datetime.strptime(t, "%Y-%m-%d %H:%M").strftime("%s"))
+						if time_stamp >= now_stamp:
+							ready = True
+							time = datetime.fromtimestamp(time_stamp).strftime("%Y-%m-%d %H:%M")
+							break
+					except:
+						print "Couldn't extract time. Dommage!!!"
+						pass
+				if ready is True:
+					try:
+						insert_event = "INSERT INTO event(name, description, start) VALUES ('" + name + "','" + genre + "','" + time + "')"
+						cursor.execute(insert_event)
+						print(name + "[" + str(conn.insert_id()) + "]: " + genre + " at " + time)
+						insert_event_subject = "INSERT INTO subject_event(id_subject, id_event) VALUES (2, " + str(conn.insert_id()) + ")"
+						cursor.execute(insert_event_subject)
+					except Exception, e:
+						print str(e)
+						print "Couldn't commit to database"
+						pass
+		except Exception, e:
+			print str(e)
+			print "Main gone rogue ... Exiting!!"
+			pass
+	cursor.close()
+	conn.commit()
+	conn.close()
 except	MySQLdb.Error, e:
 	print "Error: Exiting ..."
 	sys.exit(1)
