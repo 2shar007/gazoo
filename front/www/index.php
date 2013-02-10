@@ -176,7 +176,7 @@ $app->post('/search', function (Request $request) use ($app) {
     $sqlCommon .= $dateFilter;
     $sqlCommon .= '(' . implode(') AND (', $sqlCommonParts) . ')';
     $sqlCount = 'SELECT COUNT(DISTINCT e.id)' . $sqlCommon;
-    $sqlData = 'SELECT e.*, s.id AS subject_id, s.name AS subject_name' . $sqlCommon . ' GROUP BY e.id ORDER BY e.start ASC';
+    $sqlData = 'SELECT e.*, s.id AS subject_id, s.name AS subject_name, s.category AS subject_category' . $sqlCommon . ' GROUP BY e.id ORDER BY e.start ASC';
 
     $total_result = $app['db']->fetchColumn($sqlCount, $params);
     $events = $app['db']->fetchAll($sqlData, $params);
