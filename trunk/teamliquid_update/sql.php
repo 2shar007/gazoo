@@ -3,8 +3,8 @@
 $host = "213.251.169.168";
 $user = "gazoo";
 $db = "gazoo";
-$pass = "swparisgazoo";
-//echo "PLEASE ADD DB PASSWORD then comment this line\n"; fread(STDIN, 1);
+$pass = "";
+echo "PLEASE ADD DB PASSWORD then comment this line\n"; fread(STDIN, 1);
 
 
 
