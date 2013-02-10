@@ -83,8 +83,34 @@ body {
 }
 
 .results-listing {
-    margin-top: 30px;
+    margin-top: 75px;
 }
+
+.results-listing-row {
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+body#entrepreneur, body#entrepreneurs {
+    background-color: #759fe4;
+    background-image: url('../img/fonds_entrepreneur.png');
+}
+
+body#foot, body#football {
+    background-color: #92e376;
+    background-image: url('../img/fonds_foot.png');
+}
+
+/*
+.follow-button .btn.btn-primary {
+    background: transparent url('../img/follow.png') no-repeat;
+}
+
+.follow-button .btn.btn-success {
+    background: transparent url('../img/unfollow.png') no-repeat;
+}
+*/
 
 input[type=text]:focus,
 input[type=password]:focus

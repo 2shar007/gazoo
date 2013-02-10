@@ -178,12 +178,12 @@ $app->get('/search/{q}', function ($q) use ($app) {
     $dateFilter = "DATEDIFF( `start` , CURDATE( ) ) >0 AND ";
     $sqlCommon .= $dateFilter;
     $sqlCommon .= '(' . implode(') AND (', $sqlCommonParts) . ')';
-    $sqlCount = 'SELECT COUNT(DISTINCT e.id)' . $sqlCommon;
-    $sqlData = 'SELECT e.*, s.id AS subject_id, s.name AS subject_name, s.category AS subject_category' . $sqlCommon . ' GROUP BY e.id ORDER BY e.start ASC';
+    $sqlCount = 'SELECT COUNT(DISTINCT s.id)' . $sqlCommon;
+    $sqlData = 'SELECT e.*, s.id AS subject_id, s.name AS subject_name, s.description AS subject_description, s.category AS subject_category' . $sqlCommon . ' GROUP BY s.id ORDER BY e.start ASC';
 
     $total_result = $app['db']->fetchColumn($sqlCount, $params);
-    $events = $app['db']->fetchAll($sqlData, $params);
-    return $app['twig']->render('search.twig', array('events' => $events, 'total_result' => $total_result, 'search_query' => $q));
+    $calendars = $app['db']->fetchAll($sqlData, $params);
+    return $app['twig']->render('search.twig', array('calendars' => $calendars, 'total_result' => $total_result, 'search_query' => $q));
 })->bind('search');
 
 $app->run();

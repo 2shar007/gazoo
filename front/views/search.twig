@@ -2,20 +2,23 @@
 
 {% block title %}Search Result{% endblock %}
 
+{% block body_id %}{{ search_query|e('html_attr') }}{% endblock %}
+
 {% block content %}
     {% include 'search.form.twig' %}
-    <div class="results-count"><b>{{ total_result }}</b> results : let's follow :]</div>
+    <div class="results-count"><b>{{ total_result }}</b> kalendy : let's follow :]</div>
     <div class="results-listing">
-    {% for event in events %}
+    {% for cal in calendars %}
         <div class="results-listing-row">
-            ({{ event.subject_category }}) <strong>{{ event.name|convert_encoding('UTF-8', 'ISO-8859-1') }}</strong> - <a href="{{ url('calendar', {id: event.subject_id}) }}">{{ event.subject_name }}</a>{% include 'follow.button.twig' with {id: event.subject_id} %}
+            <strong><a href="{{ url('calendar', {id: cal.subject_id}) }}">{{ cal.subject_name }}</a> ({{ cal.subject_category }})</strong> - {{ cal.subject_description }}{% include 'follow.button.twig' with {id: cal.subject_id} %}
+            <h5>Next event</h5>
             <p>
-                {{ event.description }} <br />
+                {{ cal.name }} <br />
                 <small>
-                {% if event.start and event.end %}
-                    Starting on {{ event.start|date() }} and ending on {{ event.end|date() }}
+                {% if cal.start and cal.end %}
+                    Starting on {{ cal.start|date() }} and ending on {{ cal.end|date() }}
                 {% else %}
-                    Date : {{ event.start }}
+                    Date : {{ cal.start }}
                 {% endif %}
                 </small>
             </p>
