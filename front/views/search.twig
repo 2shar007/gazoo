@@ -10,13 +10,17 @@
     <div class="results-listing">
     {% for cal in calendars %}
         <div class="results-listing-row">
-            <strong><a href="{{ url('calendar', {id: cal.subject_id}) }}">{{ cal.subject_name }}</a> ({{ cal.subject_category }})</strong> - {{ cal.subject_description }}{% include 'follow.button.twig' with {id: cal.subject_id} %}
-            <h5>Next event</h5>
+            <div class="pull-right">{% include 'follow.button.twig' with {id: cal.subject_id} %}</div>
+            <div class="calendar-name">
+                <a href="{{ url('calendar', {id: cal.subject_id}) }}" data-html="true" data-trigger="hover" data-content="{{ cal.subject_description }}</br><a href='#'>Lien sponsorisé</a>">{{ cal.subject_name }}</a>
+            </div>
+            <strong>{{ cal.subject_category }}</strong>
             <p>
-                {{ cal.name }} <br />
+                <span class="next-event">Next event :</span> {{ cal.name }}
+                <br />
                 <small>
                 {% if cal.start and cal.end %}
-                    Starting on {{ cal.start|date() }} and ending on {{ cal.end|date() }}
+                    {{ cal.start|date() }} to {{ cal.end|date() }}
                 {% else %}
                     Date : {{ cal.start }}
                 {% endif %}

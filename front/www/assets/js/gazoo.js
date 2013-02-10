@@ -1,6 +1,6 @@
 $(document).ready(function () {
     // Login form
-    $('#login-btn').popover();
+    $('#login-btn, .calendar-name a').popover();
 
     // Ajaxify
     $(document).on('submit click', '.ajaxify' , function(event) {

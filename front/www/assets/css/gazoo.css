@@ -1,6 +1,6 @@
 body {
     padding-top: 50px;
-    background: green url('../img/home-bg.png') no-repeat center top;
+    background: #a5c095 url('../img/fonds_neutre.png') no-repeat center top;
 }
 
 .main-container {
@@ -20,8 +20,8 @@ body {
 #home .home-step {
     width: 509px;
     height: 231px;
-    margin: 57px auto 0;
-    background: transparent url('../img/home-step.png') no-repeat;
+    margin: 67px auto 0;
+    background: transparent url('../img/home-step.png') no-repeat -21px;
 }
 
 .logo {
@@ -63,7 +63,7 @@ body {
     padding: 10px;
     font-size: 20px;
     line-height: 24px;
-    color: red;
+    color: #ee7266;
     -webkit-border-radius: 0 33px 33px 0;
     -moz-border-radius: 0 33px 33px 0;
     border-radius: 0 33px 33px 0;
@@ -89,7 +89,11 @@ body {
 .results-listing-row {
     background-color: white;
     margin-bottom: 10px;
-    padding: 20px;
+    padding: 20px 20px 5px 20px;
+}
+
+.results-listing-row .follow-button {
+
 }
 
 body#entrepreneur, body#entrepreneurs {
@@ -109,7 +113,7 @@ body#foot, body#football {
 }
 
 .follow-button .btn.btn-primary {
-    width: 83px;
+    width: 123px;
     background: transparent url('../img/follow.png') no-repeat;
 }
 
@@ -130,4 +134,19 @@ input[type=password]:focus
     border: 0 !important;
     box-shadow: 0 0 0px !important;
     -webkit-box-shadow: 0 !important;
+}
+
+.calendar-name {
+
+}
+
+.calendar-name > a, .calendar-name > a:visited, .calendar-name > a:active {
+    color: #416e6f;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.next-event {
+    color: #ee7266;
 }
