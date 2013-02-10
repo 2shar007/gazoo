@@ -47,7 +47,7 @@ var callback = {
     },
     onfollow: function (resp) {
         $.pnotify({
-                title: 'Events add to you calendar',
+                title: 'Events add to your calendar',
                 type: 'info'
         });
         $('.follow-button[data-calendar-id="' + resp.id + '"]').replaceWith(resp.content);
