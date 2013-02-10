@@ -1,6 +1,6 @@
 <?php
 
-set_include_path(implode(';' , array_merge(array(__DIR__ . '/../vendor/'), explode(':', get_include_path()))));
+set_include_path(implode(PATH_SEPARATOR, array_merge(array(__DIR__ . '/../vendor/'), explode(':', get_include_path()))));
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
@@ -45,6 +45,7 @@ $app['twig'] = $app->share($app->extend('twig', function($twig, $app)
     if ($user)
         $navigation['planning'] = 'My planning';
     $twig->addGlobal('navigation', $navigation);
+    $twig->addGlobal('authUrl', getAuthSubUrl());
     return $twig;
 }));
 
@@ -90,7 +91,7 @@ function getAuthSubUrl()
   return Zend_Gdata_AuthSub::getAuthSubTokenUri($next, $scope, $secure,
       $session);
 }
-$authSubUrl = getAuthSubUrl();
+//$authSubUrl = getAuthSubUrl();
 
 $client = null;
 
@@ -104,7 +105,7 @@ if (!$app['session']->get('SESSIONTOKEN'))
 	}
 	else
 	{
-		echo "<a href=\"$authSubUrl\">login to your Google account</a>";
+		//echo "<a href=\"$authSubUrl\">login to your Google account</a>";
 	}
 }
 else
