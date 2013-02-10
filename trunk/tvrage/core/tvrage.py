@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #  tvrage.py version Alpha minus
-#  Project Kalendo @ Startup Weekend Paris, Feb '13
+#  Project Kalendy @ Startup Weekend Paris, Feb '13
 #
 #  @uthors - Tushar Ghosh (2shar007)
 #
@@ -106,5 +106,3 @@ try:
 except	MySQLdb.Error, e:
 	print "Error: Exiting ..."
 	sys.exit(1)
-
-	
