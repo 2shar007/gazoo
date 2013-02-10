@@ -1,6 +1,6 @@
-<form class="form-search" action="{{ url('search') }}" method="post">
-    <div class="input-append">
-        <input name="q" value="{{ search_query|default('') }}" required type="text" class="input-medium search-query" placeholder="Search...">
-        <input type="submit" class="btn" value="Search" />
+<form class="form-search" action="{{ url('search.post') }}" method="post">
+    <div class="input-prepend">
+        <input type="submit" class="btn" value="" />
+        <input name="q" value="{{ search_query|default('') }}" autocomplete="off" required type="text" class="input-medium search-query" placeholder="Search...">
     </div>
 </form>
